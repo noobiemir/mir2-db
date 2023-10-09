@@ -1,0 +1,14 @@
+            File.WriteAllText(".\\items.json", JsonConvert.SerializeObject(ItemInfoList), Encoding.UTF8);
+            File.WriteAllText(".\\RandomItemStats.json", JsonConvert.SerializeObject(Settings.RandomItemStatsList));
+            File.WriteAllText(".\\Monsters.json", JsonConvert.SerializeObject(MonsterInfoList));
+            File.WriteAllText(".\\Maps.json", JsonConvert.SerializeObject(MapInfoList, new JsonSerializerSettings
+            {
+                ReferenceLoopHandling = ReferenceLoopHandling.Ignore
+            }));
+            File.WriteAllText(".\\NPCs.json", JsonConvert.SerializeObject(NPCInfoList));
+            File.WriteAllText(".\\Quests.json", JsonConvert.SerializeObject(QuestInfoList, new JsonSerializerSettings
+            {
+                ReferenceLoopHandling = ReferenceLoopHandling.Ignore
+            }));
+            File.WriteAllText(".\\Gameshop.json", JsonConvert.SerializeObject(GameShopList));
+            File.WriteAllText(".\\Conquest.json", JsonConvert.SerializeObject(ConquestInfoList));

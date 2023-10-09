@@ -1,0 +1,152 @@
+[
+    {
+        "Index": 1,
+        "FullMap": false,
+        "Location": "641, 287",
+        "Size": 30,
+        "Name": "Sabuk Wall",
+        "MapIndex": 172,
+        "PalaceIndex": 245,
+        "ExtraMaps": [],
+        "ConquestGuards": [
+            {
+                "Index": 1,
+                "Location": "662, 333",
+                "MobIndex": 499,
+                "Name": "Guard",
+                "RepairCost": 1000
+            },
+            {
+                "Index": 2,
+                "Location": "664, 331",
+                "MobIndex": 499,
+                "Name": "Guard",
+                "RepairCost": 1000
+            },
+            {
+                "Index": 3,
+                "Location": "666, 329",
+                "MobIndex": 499,
+                "Name": "Guard",
+                "RepairCost": 1000
+            },
+            {
+                "Index": 4,
+                "Location": "676, 319",
+                "MobIndex": 499,
+                "Name": "Guard",
+                "RepairCost": 1000
+            },
+            {
+                "Index": 5,
+                "Location": "678, 317",
+                "MobIndex": 499,
+                "Name": "Guard",
+                "RepairCost": 1000
+            },
+            {
+                "Index": 6,
+                "Location": "681, 314",
+                "MobIndex": 499,
+                "Name": "Guard",
+                "RepairCost": 1000
+            },
+            {
+                "Index": 7,
+                "Location": "628, 271",
+                "MobIndex": 499,
+                "Name": "Guard",
+                "RepairCost": 1000
+            },
+            {
+                "Index": 8,
+                "Location": "632, 267",
+                "MobIndex": 499,
+                "Name": "Guard",
+                "RepairCost": 1000
+            },
+            {
+                "Index": 9,
+                "Location": "670, 335",
+                "MobIndex": 499,
+                "Name": "Guard",
+                "RepairCost": 1000
+            },
+            {
+                "Index": 10,
+                "Location": "671, 334",
+                "MobIndex": 499,
+                "Name": "Guard",
+                "RepairCost": 1000
+            },
+            {
+                "Index": 11,
+                "Location": "675, 330",
+                "MobIndex": 499,
+                "Name": "Guard",
+                "RepairCost": 1000
+            },
+            {
+                "Index": 12,
+                "Location": "671, 334",
+                "MobIndex": 499,
+                "Name": "Guard",
+                "RepairCost": 1000
+            }
+        ],
+        "ConquestGates": [
+            {
+                "Index": 1,
+                "Location": "672, 330",
+                "MobIndex": 568,
+                "Name": "SabukGate",
+                "RepairCost": 1000
+            }
+        ],
+        "ConquestWalls": [
+            {
+                "Index": 1,
+                "Location": "624, 278",
+                "MobIndex": 569,
+                "Name": "LeftWall",
+                "RepairCost": 1000
+            },
+            {
+                "Index": 2,
+                "Location": "627, 278",
+                "MobIndex": 570,
+                "Name": "CenterWall",
+                "RepairCost": 1000
+            },
+            {
+                "Index": 3,
+                "Location": "634, 271",
+                "MobIndex": 571,
+                "Name": "RightWall",
+                "RepairCost": 1000
+            }
+        ],
+        "ConquestSieges": [],
+        "ConquestFlags": [],
+        "GuardIndex": 12,
+        "GateIndex": 1,
+        "WallIndex": 3,
+        "SiegeIndex": 0,
+        "FlagIndex": 0,
+        "StartHour": 18,
+        "WarLength": 30,
+        "Type": 0,
+        "Game": 3,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true,
+        "Sunday": true,
+        "KingLocation": "0, 0",
+        "KingSize": 0,
+        "ControlPoints": [],
+        "ControlPointIndex": 0
+    }
+]
