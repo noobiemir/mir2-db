@@ -1,7 +1,7 @@
 [
     {
         "Index": 1,
-        "Name": "ArcherGuard",
+        "Name": "弓箭守卫",
         "Image": 139,
         "AI": 57,
         "Effect": 0,
@@ -36,12 +36,11 @@
                 "HP": 9999
             },
             "Count": 13059
-        },
-        "GameName": "ArcherGuard"
+        }
     },
     {
         "Index": 2,
-        "Name": "ArcherGuard1",
+        "Name": "弓箭守卫1",
         "Image": 120,
         "AI": 57,
         "Effect": 0,
@@ -76,12 +75,11 @@
                 "HP": 9999
             },
             "Count": 13059
-        },
-        "GameName": "ArcherGuard"
+        }
     },
     {
         "Index": 3,
-        "Name": "Guard",
+        "Name": "卫士",
         "Image": 0,
         "AI": 6,
         "Effect": 0,
@@ -116,12 +114,11 @@
                 "HP": 9999
             },
             "Count": 13059
-        },
-        "GameName": "Guard"
+        }
     },
     {
         "Index": 4,
-        "Name": "Guard1",
+        "Name": "带刀护卫1",
         "Image": 1,
         "AI": 58,
         "Effect": 0,
@@ -156,12 +153,11 @@
                 "HP": 9999
             },
             "Count": 13059
-        },
-        "GameName": "Guard"
+        }
     },
     {
         "Index": 5,
-        "Name": "Guard2",
+        "Name": "卫士2",
         "Image": 123,
         "AI": 6,
         "Effect": 0,
@@ -196,12 +192,11 @@
                 "HP": 9999
             },
             "Count": 13059
-        },
-        "GameName": "Guard"
+        }
     },
     {
         "Index": 6,
-        "Name": "Sentry",
+        "Name": "远古比奇护卫",
         "Image": 2,
         "AI": 6,
         "Effect": 0,
@@ -236,12 +231,11 @@
                 "HP": 9999
             },
             "Count": 13059
-        },
-        "GameName": "Sentry"
+        }
     },
     {
         "Index": 7,
-        "Name": "Trainer",
+        "Name": "练功师",
         "Image": 140,
         "AI": 56,
         "Effect": 0,
@@ -268,12 +262,11 @@
                 "HP": 9999
             },
             "Count": 10031
-        },
-        "GameName": "Trainer"
+        }
     },
     {
         "Index": 8,
-        "Name": "TrainingMob",
+        "Name": "训练师",
         "Image": 123,
         "AI": 56,
         "Effect": 0,
@@ -300,12 +293,11 @@
                 "HP": 9999
             },
             "Count": 10031
-        },
-        "GameName": "TrainingMob"
+        }
     },
     {
         "Index": 9,
-        "Name": "BoneFamiliar",
+        "Name": "骷髅护卫",
         "Image": 78,
         "AI": 23,
         "Effect": 0,
@@ -336,12 +328,11 @@
                 "HP": 140
             },
             "Count": 230
-        },
-        "GameName": "BoneFamiliar"
+        }
     },
     {
         "Index": 10,
-        "Name": "Shinsu",
+        "Name": "神兽",
         "Image": 79,
         "AI": 18,
         "Effect": 0,
@@ -372,12 +363,11 @@
                 "HP": 160
             },
             "Count": 260
-        },
-        "GameName": "Shinsu"
+        }
     },
     {
         "Index": 11,
-        "Name": "Shinsu1",
+        "Name": "神兽1",
         "Image": 80,
         "AI": 18,
         "Effect": 0,
@@ -408,12 +398,11 @@
                 "HP": 160
             },
             "Count": 260
-        },
-        "GameName": "Shinsu"
+        }
     },
     {
         "Index": 12,
-        "Name": "HolyDeva",
+        "Name": "月灵",
         "Image": 117,
         "AI": 38,
         "Effect": 0,
@@ -445,8 +434,7 @@
                 "HP": 1200
             },
             "Count": 1425
-        },
-        "GameName": "HolyDeva"
+        }
     },
     {
         "Index": 13,
@@ -483,8 +471,7 @@
                 "HP": 150
             },
             "Count": 336
-        },
-        "GameName": "Clone"
+        }
     },
     {
         "Index": 14,
@@ -521,12 +508,11 @@
                 "HP": 100
             },
             "Count": 356
-        },
-        "GameName": "AssassinClone"
+        }
     },
     {
         "Index": 15,
-        "Name": "VampireSpider",
+        "Name": "自爆蜘蛛",
         "Image": 359,
         "AI": 60,
         "Effect": 0,
@@ -553,12 +539,11 @@
                 "HP": 200
             },
             "Count": 216
-        },
-        "GameName": "VampireSpider"
+        }
     },
     {
         "Index": 16,
-        "Name": "SpittingToad",
+        "Name": "火蟾",
         "Image": 360,
         "AI": 61,
         "Effect": 0,
@@ -585,12 +570,11 @@
                 "HP": 400
             },
             "Count": 416
-        },
-        "GameName": "SpittingToad"
+        }
     },
     {
         "Index": 17,
-        "Name": "SnakeTotem",
+        "Name": "蛇柱",
         "Image": 361,
         "AI": 62,
         "Effect": 0,
@@ -617,8 +601,7 @@
                 "HP": 600
             },
             "Count": 616
-        },
-        "GameName": "SnakeTotem"
+        }
     },
     {
         "Index": 18,
@@ -649,8 +632,7 @@
                 "HP": 800
             },
             "Count": 816
-        },
-        "GameName": "CharmedSnake"
+        }
     },
     {
         "Index": 19,
@@ -682,8 +664,7 @@
                 "HP": 1500
             },
             "Count": 1565
-        },
-        "GameName": "BabyPig"
+        }
     },
     {
         "Index": 20,
@@ -715,8 +696,7 @@
                 "HP": 1500
             },
             "Count": 1565
-        },
-        "GameName": "Chick"
+        }
     },
     {
         "Index": 21,
@@ -748,8 +728,7 @@
                 "HP": 1500
             },
             "Count": 1565
-        },
-        "GameName": "Kitten"
+        }
     },
     {
         "Index": 22,
@@ -781,8 +760,7 @@
                 "HP": 1500
             },
             "Count": 1565
-        },
-        "GameName": "BabySkeleton"
+        }
     },
     {
         "Index": 23,
@@ -814,8 +792,7 @@
                 "HP": 1500
             },
             "Count": 1565
-        },
-        "GameName": "Baekdon"
+        }
     },
     {
         "Index": 24,
@@ -847,8 +824,7 @@
                 "HP": 1500
             },
             "Count": 1565
-        },
-        "GameName": "Wimaen"
+        }
     },
     {
         "Index": 25,
@@ -880,8 +856,7 @@
                 "HP": 1500
             },
             "Count": 1565
-        },
-        "GameName": "BlackKitten"
+        }
     },
     {
         "Index": 26,
@@ -913,8 +888,7 @@
                 "HP": 1500
             },
             "Count": 1565
-        },
-        "GameName": "BabyDragon"
+        }
     },
     {
         "Index": 27,
@@ -946,8 +920,7 @@
                 "HP": 1500
             },
             "Count": 1565
-        },
-        "GameName": "OlympicFlame"
+        }
     },
     {
         "Index": 28,
@@ -979,12 +952,11 @@
                 "HP": 1500
             },
             "Count": 1565
-        },
-        "GameName": "BabySnowMan"
+        }
     },
     {
         "Index": 29,
-        "Name": "Hen",
+        "Name": "鸡",
         "Image": 3,
         "AI": 1,
         "Effect": 0,
@@ -1011,12 +983,11 @@
                 "HP": 5
             },
             "Count": 20
-        },
-        "GameName": "Hen"
+        }
     },
     {
         "Index": 30,
-        "Name": "Deer",
+        "Name": "鹿",
         "Image": 4,
         "AI": 2,
         "Effect": 0,
@@ -1043,12 +1014,11 @@
                 "HP": 25
             },
             "Count": 42
-        },
-        "GameName": "Deer"
+        }
     },
     {
         "Index": 31,
-        "Name": "Deer1",
+        "Name": "鹿1",
         "Image": 4,
         "AI": 2,
         "Effect": 0,
@@ -1075,12 +1045,11 @@
                 "HP": 25
             },
             "Count": 42
-        },
-        "GameName": "Deer"
+        }
     },
     {
         "Index": 32,
-        "Name": "Pig",
+        "Name": "猪",
         "Image": 142,
         "AI": 1,
         "Effect": 0,
@@ -1107,12 +1076,11 @@
                 "HP": 20
             },
             "Count": 41
-        },
-        "GameName": "Pig"
+        }
     },
     {
         "Index": 33,
-        "Name": "Bull",
+        "Name": "牛",
         "Image": 143,
         "AI": 1,
         "Effect": 0,
@@ -1139,12 +1107,11 @@
                 "HP": 20
             },
             "Count": 41
-        },
-        "GameName": "Bull"
+        }
     },
     {
         "Index": 34,
-        "Name": "Sheep",
+        "Name": "羊",
         "Image": 103,
         "AI": 2,
         "Effect": 0,
@@ -1171,12 +1138,11 @@
                 "HP": 20
             },
             "Count": 41
-        },
-        "GameName": "Sheep"
+        }
     },
     {
         "Index": 35,
-        "Name": "Wolf",
+        "Name": "狼",
         "Image": 104,
         "AI": 9,
         "Effect": 0,
@@ -1203,12 +1169,11 @@
                 "HP": 48
             },
             "Count": 85
-        },
-        "GameName": "Wolf"
+        }
     },
     {
         "Index": 36,
-        "Name": "Currish",
+        "Name": "恶狼",
         "Image": 104,
         "AI": 9,
         "Effect": 0,
@@ -1235,12 +1200,11 @@
                 "HP": 48
             },
             "Count": 91
-        },
-        "GameName": "Currish"
+        }
     },
     {
         "Index": 37,
-        "Name": "Yob",
+        "Name": "蛤蟆",
         "Image": 8,
         "AI": 0,
         "Effect": 0,
@@ -1266,12 +1230,11 @@
                 "HP": 20
             },
             "Count": 44
-        },
-        "GameName": "Yob"
+        }
     },
     {
         "Index": 38,
-        "Name": "Yob0",
+        "Name": "蛤蟆0",
         "Image": 8,
         "AI": 0,
         "Effect": 0,
@@ -1297,12 +1260,11 @@
                 "HP": 20
             },
             "Count": 44
-        },
-        "GameName": "Yob"
+        }
     },
     {
         "Index": 39,
-        "Name": "Scarecrow",
+        "Name": "稻草人",
         "Image": 5,
         "AI": 0,
         "Effect": 0,
@@ -1329,12 +1291,11 @@
                 "HP": 20
             },
             "Count": 36
-        },
-        "GameName": "Scarecrow"
+        }
     },
     {
         "Index": 40,
-        "Name": "Scarecrow0",
+        "Name": "稻草人0",
         "Image": 5,
         "AI": 0,
         "Effect": 0,
@@ -1361,12 +1322,11 @@
                 "HP": 20
             },
             "Count": 36
-        },
-        "GameName": "Scarecrow"
+        }
     },
     {
         "Index": 41,
-        "Name": "Scarecrow1",
+        "Name": "稻草人1",
         "Image": 5,
         "AI": 0,
         "Effect": 0,
@@ -1393,12 +1353,11 @@
                 "HP": 20
             },
             "Count": 36
-        },
-        "GameName": "Scarecrow"
+        }
     },
     {
         "Index": 42,
-        "Name": "HookingCat",
+        "Name": "多钩猫",
         "Image": 6,
         "AI": 0,
         "Effect": 0,
@@ -1425,12 +1384,11 @@
                 "HP": 30
             },
             "Count": 48
-        },
-        "GameName": "HookingCat"
+        }
     },
     {
         "Index": 43,
-        "Name": "HookingCat0",
+        "Name": "多钩猫0",
         "Image": 6,
         "AI": 0,
         "Effect": 0,
@@ -1457,12 +1415,11 @@
                 "HP": 30
             },
             "Count": 48
-        },
-        "GameName": "HookingCat"
+        }
     },
     {
         "Index": 44,
-        "Name": "RakingCat",
+        "Name": "钉耙猫",
         "Image": 7,
         "AI": 0,
         "Effect": 0,
@@ -1489,12 +1446,11 @@
                 "HP": 32
             },
             "Count": 51
-        },
-        "GameName": "RakingCat"
+        }
     },
     {
         "Index": 45,
-        "Name": "RakingCat0",
+        "Name": "钉耙猫0",
         "Image": 7,
         "AI": 0,
         "Effect": 0,
@@ -1521,12 +1477,11 @@
                 "HP": 32
             },
             "Count": 51
-        },
-        "GameName": "RakingCat"
+        }
     },
     {
         "Index": 46,
-        "Name": "SpittingSpider",
+        "Name": "毒蜘蛛",
         "Image": 12,
         "AI": 4,
         "Effect": 0,
@@ -1559,12 +1514,11 @@
                 "HP": 65
             },
             "Count": 115
-        },
-        "GameName": "SpittingSpider"
+        }
     },
     {
         "Index": 47,
-        "Name": "CannibalPlant",
+        "Name": "食人花",
         "Image": 10,
         "AI": 5,
         "Effect": 0,
@@ -1593,12 +1547,11 @@
                 "HP": 28
             },
             "Count": 71
-        },
-        "GameName": "CannibalPlant"
+        }
     },
     {
         "Index": 48,
-        "Name": "Oma",
+        "Name": "半兽人",
         "Image": 9,
         "AI": 0,
         "Effect": 0,
@@ -1627,12 +1580,11 @@
                 "HP": 30
             },
             "Count": 66
-        },
-        "GameName": "Oma"
+        }
     },
     {
         "Index": 49,
-        "Name": "Oma0",
+        "Name": "半兽人0",
         "Image": 9,
         "AI": 0,
         "Effect": 0,
@@ -1661,12 +1613,11 @@
                 "HP": 30
             },
             "Count": 66
-        },
-        "GameName": "Oma"
+        }
     },
     {
         "Index": 50,
-        "Name": "OmaFighter",
+        "Name": "半兽战士",
         "Image": 17,
         "AI": 0,
         "Effect": 0,
@@ -1697,12 +1648,11 @@
                 "HP": 100
             },
             "Count": 150
-        },
-        "GameName": "OmaFighter"
+        }
     },
     {
         "Index": 51,
-        "Name": "OmaFighter0",
+        "Name": "半兽战士0",
         "Image": 17,
         "AI": 0,
         "Effect": 0,
@@ -1733,12 +1683,11 @@
                 "HP": 100
             },
             "Count": 150
-        },
-        "GameName": "OmaFighter"
+        }
     },
     {
         "Index": 52,
-        "Name": "OmaWarrior",
+        "Name": "半兽勇士",
         "Image": 18,
         "AI": 0,
         "Effect": 0,
@@ -1765,12 +1714,11 @@
                 "HP": 300
             },
             "Count": 375
-        },
-        "GameName": "OmaWarrior"
+        }
     },
     {
         "Index": 53,
-        "Name": "OmaWarrior1",
+        "Name": "半兽勇士1",
         "Image": 18,
         "AI": 0,
         "Effect": 0,
@@ -1797,12 +1745,11 @@
                 "HP": 400
             },
             "Count": 491
-        },
-        "GameName": "OmaWarrior"
+        }
     },
     {
         "Index": 54,
-        "Name": "OmaWarrior2",
+        "Name": "半兽勇士2",
         "Image": 18,
         "AI": 0,
         "Effect": 0,
@@ -1829,12 +1776,11 @@
                 "HP": 500
             },
             "Count": 597
-        },
-        "GameName": "OmaWarrior"
+        }
     },
     {
         "Index": 55,
-        "Name": "ForestYeti",
+        "Name": "森林雪人",
         "Image": 11,
         "AI": 0,
         "Effect": 0,
@@ -1863,12 +1809,11 @@
                 "HP": 36
             },
             "Count": 76
-        },
-        "GameName": "ForestYeti"
+        }
     },
     {
         "Index": 56,
-        "Name": "ForestYeti0",
+        "Name": "森林雪人0",
         "Image": 11,
         "AI": 0,
         "Effect": 0,
@@ -1897,12 +1842,11 @@
                 "HP": 36
             },
             "Count": 76
-        },
-        "GameName": "ForestYeti"
+        }
     },
     {
         "Index": 57,
-        "Name": "FrostTiger",
+        "Name": "林中虎",
         "Image": 102,
         "AI": 34,
         "Effect": 0,
@@ -1933,12 +1877,11 @@
                 "HP": 1000
             },
             "Count": 1192
-        },
-        "GameName": "FrostTiger"
+        }
     },
     {
         "Index": 58,
-        "Name": "ChestnutTree",
+        "Name": "栗子树",
         "Image": 13,
         "AI": 3,
         "Effect": 0,
@@ -1963,12 +1906,11 @@
                 "HP": 10
             },
             "Count": 12
-        },
-        "GameName": "ChestnutTree"
+        }
     },
     {
         "Index": 59,
-        "Name": "ChestnutTree1",
+        "Name": "栗子树1",
         "Image": 13,
         "AI": 3,
         "Effect": 0,
@@ -1993,12 +1935,11 @@
                 "HP": 10
             },
             "Count": 12
-        },
-        "GameName": "ChestnutTree"
+        }
     },
     {
         "Index": 60,
-        "Name": "ChestnutTree2",
+        "Name": "栗子树2",
         "Image": 13,
         "AI": 3,
         "Effect": 0,
@@ -2023,12 +1964,11 @@
                 "HP": 10
             },
             "Count": 12
-        },
-        "GameName": "ChestnutTree"
+        }
     },
     {
         "Index": 61,
-        "Name": "EbonyTree",
+        "Name": "乌木树",
         "Image": 14,
         "AI": 3,
         "Effect": 0,
@@ -2053,12 +1993,11 @@
                 "HP": 10
             },
             "Count": 12
-        },
-        "GameName": "EbonyTree"
+        }
     },
     {
         "Index": 62,
-        "Name": "CherryTree",
+        "Name": "樱桃树",
         "Image": 16,
         "AI": 3,
         "Effect": 0,
@@ -2083,12 +2022,11 @@
                 "HP": 10
             },
             "Count": 12
-        },
-        "GameName": "CherryTree"
+        }
     },
     {
         "Index": 63,
-        "Name": "LargeMushroom",
+        "Name": "巨型蘑菇",
         "Image": 15,
         "AI": 3,
         "Effect": 0,
@@ -2113,12 +2051,11 @@
                 "HP": 10
             },
             "Count": 12
-        },
-        "GameName": "LargeMushroom"
+        }
     },
     {
         "Index": 64,
-        "Name": "RedSnake",
+        "Name": "红蛇",
         "Image": 111,
         "AI": 0,
         "Effect": 0,
@@ -2147,12 +2084,11 @@
                 "HP": 60
             },
             "Count": 109
-        },
-        "GameName": "RedSnake"
+        }
     },
     {
         "Index": 65,
-        "Name": "RedSnake0",
+        "Name": "红蛇0",
         "Image": 111,
         "AI": 0,
         "Effect": 0,
@@ -2183,12 +2119,11 @@
                 "HP": 60
             },
             "Count": 112
-        },
-        "GameName": "RedSnake"
+        }
     },
     {
         "Index": 66,
-        "Name": "RedViper",
+        "Name": "赤色毒蛇",
         "Image": 111,
         "AI": 0,
         "Effect": 0,
@@ -2217,12 +2152,11 @@
                 "HP": 60
             },
             "Count": 115
-        },
-        "GameName": "RedViper"
+        }
     },
     {
         "Index": 67,
-        "Name": "TigerSnake",
+        "Name": "虎蛇",
         "Image": 112,
         "AI": 0,
         "Effect": 0,
@@ -2251,12 +2185,11 @@
                 "HP": 60
             },
             "Count": 112
-        },
-        "GameName": "TigerSnake"
+        }
     },
     {
         "Index": 68,
-        "Name": "TigerSnake0",
+        "Name": "虎蛇0",
         "Image": 112,
         "AI": 0,
         "Effect": 0,
@@ -2287,12 +2220,11 @@
                 "HP": 60
             },
             "Count": 115
-        },
-        "GameName": "TigerSnake"
+        }
     },
     {
         "Index": 69,
-        "Name": "TigerViper",
+        "Name": "斑纹虎蛇",
         "Image": 112,
         "AI": 0,
         "Effect": 0,
@@ -2321,12 +2253,11 @@
                 "HP": 70
             },
             "Count": 127
-        },
-        "GameName": "TigerViper"
+        }
     },
     {
         "Index": 70,
-        "Name": "Keratoid",
+        "Name": "多角虫",
         "Image": 106,
         "AI": 0,
         "Effect": 0,
@@ -2353,12 +2284,11 @@
                 "HP": 52
             },
             "Count": 90
-        },
-        "GameName": "Keratoid"
+        }
     },
     {
         "Index": 71,
-        "Name": "Keratoid0",
+        "Name": "多角虫0",
         "Image": 106,
         "AI": 0,
         "Effect": 0,
@@ -2385,12 +2315,11 @@
                 "HP": 52
             },
             "Count": 90
-        },
-        "GameName": "Keratoid"
+        }
     },
     {
         "Index": 72,
-        "Name": "ShellNipper",
+        "Name": "盔甲虫",
         "Image": 105,
         "AI": 0,
         "Effect": 0,
@@ -2417,12 +2346,11 @@
                 "HP": 50
             },
             "Count": 83
-        },
-        "GameName": "ShellNipper"
+        }
     },
     {
         "Index": 73,
-        "Name": "ShellNipper0",
+        "Name": "盔甲虫0",
         "Image": 105,
         "AI": 0,
         "Effect": 0,
@@ -2449,12 +2377,11 @@
                 "HP": 50
             },
             "Count": 85
-        },
-        "GameName": "ShellNipper"
+        }
     },
     {
         "Index": 74,
-        "Name": "SkyStinger",
+        "Name": "猎鹰",
         "Image": 108,
         "AI": 0,
         "Effect": 0,
@@ -2481,12 +2408,11 @@
                 "HP": 38
             },
             "Count": 110
-        },
-        "GameName": "SkyStinger"
+        }
     },
     {
         "Index": 75,
-        "Name": "SkyStinger0",
+        "Name": "猎鹰0",
         "Image": 108,
         "AI": 0,
         "Effect": 0,
@@ -2513,12 +2439,11 @@
                 "HP": 38
             },
             "Count": 115
-        },
-        "GameName": "SkyStinger"
+        }
     },
     {
         "Index": 76,
-        "Name": "VisceralWorm",
+        "Name": "思威尔小虫",
         "Image": 110,
         "AI": 0,
         "Effect": 0,
@@ -2549,12 +2474,11 @@
                 "HP": 50
             },
             "Count": 98
-        },
-        "GameName": "VisceralWorm"
+        }
     },
     {
         "Index": 77,
-        "Name": "SandWorm",
+        "Name": "沙虫",
         "Image": 109,
         "AI": 35,
         "Effect": 0,
@@ -2581,12 +2505,11 @@
                 "HP": 54
             },
             "Count": 101
-        },
-        "GameName": "SandWorm"
+        }
     },
     {
         "Index": 78,
-        "Name": "GiantKeratoid",
+        "Name": "巨型多角虫",
         "Image": 107,
         "AI": 0,
         "Effect": 0,
@@ -2613,12 +2536,11 @@
                 "HP": 250
             },
             "Count": 285
-        },
-        "GameName": "GiantKeratoid"
+        }
     },
     {
         "Index": 79,
-        "Name": "GiantKeratoid1",
+        "Name": "巨型多角虫1",
         "Image": 107,
         "AI": 0,
         "Effect": 0,
@@ -2645,12 +2567,11 @@
                 "HP": 250
             },
             "Count": 309
-        },
-        "GameName": "GiantKeratoid"
+        }
     },
     {
         "Index": 80,
-        "Name": "GiantKeratoid2",
+        "Name": "巨型多角虫2",
         "Image": 107,
         "AI": 0,
         "Effect": 0,
@@ -2677,12 +2598,11 @@
                 "HP": 250
             },
             "Count": 307
-        },
-        "GameName": "GiantKeratoid"
+        }
     },
     {
         "Index": 81,
-        "Name": "CaveBat",
+        "Name": "山洞蝙蝠",
         "Image": 19,
         "AI": 0,
         "Effect": 0,
@@ -2711,12 +2631,11 @@
                 "HP": 25
             },
             "Count": 75
-        },
-        "GameName": "CaveBat"
+        }
     },
     {
         "Index": 82,
-        "Name": "CaveBat0",
+        "Name": "山洞蝙蝠0",
         "Image": 19,
         "AI": 0,
         "Effect": 0,
@@ -2745,12 +2664,11 @@
                 "HP": 25
             },
             "Count": 75
-        },
-        "GameName": "CaveBat"
+        }
     },
     {
         "Index": 83,
-        "Name": "CaveMaggot",
+        "Name": "洞蛆",
         "Image": 20,
         "AI": 7,
         "Effect": 0,
@@ -2777,12 +2695,11 @@
                 "HP": 80
             },
             "Count": 118
-        },
-        "GameName": "CaveMaggot"
+        }
     },
     {
         "Index": 84,
-        "Name": "Scorpion",
+        "Name": "蝎子",
         "Image": 21,
         "AI": 9,
         "Effect": 0,
@@ -2811,12 +2728,11 @@
                 "HP": 45
             },
             "Count": 97
-        },
-        "GameName": "Scorpion"
+        }
     },
     {
         "Index": 85,
-        "Name": "Skeleton",
+        "Name": "骷髅",
         "Image": 22,
         "AI": 0,
         "Effect": 0,
@@ -2843,12 +2759,11 @@
                 "HP": 90
             },
             "Count": 131
-        },
-        "GameName": "Skeleton"
+        }
     },
     {
         "Index": 86,
-        "Name": "Skeleton0",
+        "Name": "骷髅0",
         "Image": 22,
         "AI": 0,
         "Effect": 0,
@@ -2875,12 +2790,11 @@
                 "HP": 90
             },
             "Count": 131
-        },
-        "GameName": "Skeleton"
+        }
     },
     {
         "Index": 87,
-        "Name": "AxeSkeleton",
+        "Name": "掷斧骷髅",
         "Image": 24,
         "AI": 8,
         "Effect": 0,
@@ -2907,12 +2821,11 @@
                 "HP": 100
             },
             "Count": 140
-        },
-        "GameName": "AxeSkeleton"
+        }
     },
     {
         "Index": 88,
-        "Name": "AxeSkeleton0",
+        "Name": "掷斧骷髅0",
         "Image": 24,
         "AI": 8,
         "Effect": 0,
@@ -2939,12 +2852,11 @@
                 "HP": 100
             },
             "Count": 140
-        },
-        "GameName": "AxeSkeleton"
+        }
     },
     {
         "Index": 89,
-        "Name": "AxeSkeleton9",
+        "Name": "掷斧骷髅9",
         "Image": 24,
         "AI": 8,
         "Effect": 0,
@@ -2971,12 +2883,11 @@
                 "HP": 100
             },
             "Count": 140
-        },
-        "GameName": "AxeSkeleton"
+        }
     },
     {
         "Index": 90,
-        "Name": "BoneFighter",
+        "Name": "骷髅战士",
         "Image": 23,
         "AI": 0,
         "Effect": 0,
@@ -3007,12 +2918,11 @@
                 "HP": 110
             },
             "Count": 160
-        },
-        "GameName": "BoneFighter"
+        }
     },
     {
         "Index": 91,
-        "Name": "BoneFighter0",
+        "Name": "骷髅战士0",
         "Image": 23,
         "AI": 0,
         "Effect": 0,
@@ -3043,12 +2953,11 @@
                 "HP": 110
             },
             "Count": 160
-        },
-        "GameName": "BoneFighter"
+        }
     },
     {
         "Index": 92,
-        "Name": "BoneWarrior",
+        "Name": "骷髅战将",
         "Image": 25,
         "AI": 0,
         "Effect": 0,
@@ -3075,12 +2984,11 @@
                 "HP": 105
             },
             "Count": 149
-        },
-        "GameName": "BoneWarrior"
+        }
     },
     {
         "Index": 93,
-        "Name": "BoneWarrior0",
+        "Name": "骷髅战将0",
         "Image": 25,
         "AI": 0,
         "Effect": 0,
@@ -3107,12 +3015,11 @@
                 "HP": 105
             },
             "Count": 149
-        },
-        "GameName": "BoneWarrior"
+        }
     },
     {
         "Index": 94,
-        "Name": "BoneElite",
+        "Name": "骷髅精灵",
         "Image": 26,
         "AI": 0,
         "Effect": 0,
@@ -3143,12 +3050,11 @@
                 "HP": 500
             },
             "Count": 578
-        },
-        "GameName": "BoneElite"
+        }
     },
     {
         "Index": 95,
-        "Name": "BoneElite1",
+        "Name": "骷髅精灵1",
         "Image": 26,
         "AI": 0,
         "Effect": 0,
@@ -3179,12 +3085,11 @@
                 "HP": 500
             },
             "Count": 578
-        },
-        "GameName": "BoneElite"
+        }
     },
     {
         "Index": 96,
-        "Name": "BoneElite2",
+        "Name": "骷髅精灵2",
         "Image": 26,
         "AI": 0,
         "Effect": 0,
@@ -3215,12 +3120,11 @@
                 "HP": 500
             },
             "Count": 578
-        },
-        "GameName": "BoneElite"
+        }
     },
     {
         "Index": 97,
-        "Name": "BoneElite9",
+        "Name": "骷髅精灵9",
         "Image": 26,
         "AI": 0,
         "Effect": 0,
@@ -3251,12 +3155,11 @@
                 "HP": 500
             },
             "Count": 578
-        },
-        "GameName": "BoneElite"
+        }
     },
     {
         "Index": 98,
-        "Name": "Ancient_AxeSkeleton",
+        "Name": "远古掷斧骷髅",
         "Image": 24,
         "AI": 8,
         "Effect": 0,
@@ -3283,12 +3186,11 @@
                 "HP": 550
             },
             "Count": 633
-        },
-        "GameName": "Ancient_AxeSkeleton"
+        }
     },
     {
         "Index": 99,
-        "Name": "Ancient_AxeSkeleton0",
+        "Name": "远古掷斧骷髅0",
         "Image": 24,
         "AI": 8,
         "Effect": 0,
@@ -3315,12 +3217,11 @@
                 "HP": 550
             },
             "Count": 633
-        },
-        "GameName": "Ancient_AxeSkeleton"
+        }
     },
     {
         "Index": 100,
-        "Name": "Ancient_Skeleton",
+        "Name": "远古骷髅",
         "Image": 22,
         "AI": 0,
         "Effect": 0,
@@ -3347,12 +3248,11 @@
                 "HP": 500
             },
             "Count": 579
-        },
-        "GameName": "Ancient_Skeleton"
+        }
     },
     {
         "Index": 101,
-        "Name": "Ancient_Skeleton0",
+        "Name": "远古骷髅0",
         "Image": 22,
         "AI": 0,
         "Effect": 0,
@@ -3379,12 +3279,11 @@
                 "HP": 500
             },
             "Count": 579
-        },
-        "GameName": "Ancient_Skeleton"
+        }
     },
     {
         "Index": 102,
-        "Name": "Ancient_BoneFighter",
+        "Name": "远古骷髅战士",
         "Image": 23,
         "AI": 0,
         "Effect": 0,
@@ -3413,12 +3312,11 @@
                 "HP": 650
             },
             "Count": 734
-        },
-        "GameName": "Ancient_BoneFighter"
+        }
     },
     {
         "Index": 103,
-        "Name": "Ancient_BoneFighter0",
+        "Name": "远古骷髅战士0",
         "Image": 23,
         "AI": 0,
         "Effect": 0,
@@ -3447,12 +3345,11 @@
                 "HP": 650
             },
             "Count": 734
-        },
-        "GameName": "Ancient_BoneFighter"
+        }
     },
     {
         "Index": 104,
-        "Name": "Ancient_BoneWarrior",
+        "Name": "远古骷髅战将",
         "Image": 25,
         "AI": 0,
         "Effect": 0,
@@ -3479,12 +3376,11 @@
                 "HP": 600
             },
             "Count": 682
-        },
-        "GameName": "Ancient_BoneWarrior"
+        }
     },
     {
         "Index": 105,
-        "Name": "Ancient_BoneWarrior0",
+        "Name": "远古骷髅战将0",
         "Image": 25,
         "AI": 0,
         "Effect": 0,
@@ -3511,12 +3407,11 @@
                 "HP": 600
             },
             "Count": 682
-        },
-        "GameName": "Ancient_BoneWarrior"
+        }
     },
     {
         "Index": 106,
-        "Name": "Ancient_BoneElite",
+        "Name": "远古骷髅精灵",
         "Image": 26,
         "AI": 0,
         "Effect": 0,
@@ -3545,12 +3440,11 @@
                 "HP": 1000
             },
             "Count": 1105
-        },
-        "GameName": "Ancient_BoneElite"
+        }
     },
     {
         "Index": 107,
-        "Name": "BoneWhoo",
+        "Name": "剧毒骷髅",
         "Image": 194,
         "AI": 0,
         "Effect": 0,
@@ -3581,12 +3475,11 @@
                 "HP": 2200
             },
             "Count": 2306
-        },
-        "GameName": "BoneWhoo"
+        }
     },
     {
         "Index": 108,
-        "Name": "Zombie1",
+        "Name": "萨满僵尸1",
         "Image": 73,
         "AI": 26,
         "Effect": 0,
@@ -3617,12 +3510,11 @@
                 "HP": 155
             },
             "Count": 211
-        },
-        "GameName": "Zombie"
+        }
     },
     {
         "Index": 109,
-        "Name": "Zombie10",
+        "Name": "萨满僵尸10",
         "Image": 73,
         "AI": 26,
         "Effect": 0,
@@ -3653,12 +3545,11 @@
                 "HP": 155
             },
             "Count": 211
-        },
-        "GameName": "Zombie"
+        }
     },
     {
         "Index": 110,
-        "Name": "Zombie2",
+        "Name": "钻地僵尸2",
         "Image": 69,
         "AI": 24,
         "Effect": 0,
@@ -3685,12 +3576,11 @@
                 "HP": 155
             },
             "Count": 209
-        },
-        "GameName": "Zombie"
+        }
     },
     {
         "Index": 111,
-        "Name": "Zombie20",
+        "Name": "钻地僵尸20",
         "Image": 69,
         "AI": 24,
         "Effect": 0,
@@ -3717,12 +3607,11 @@
                 "HP": 155
             },
             "Count": 209
-        },
-        "GameName": "Zombie"
+        }
     },
     {
         "Index": 112,
-        "Name": "Zombie3",
+        "Name": "蹒跚僵尸3",
         "Image": 70,
         "AI": 25,
         "Effect": 0,
@@ -3753,12 +3642,11 @@
                 "HP": 155
             },
             "Count": 214
-        },
-        "GameName": "Zombie"
+        }
     },
     {
         "Index": 113,
-        "Name": "Zombie30",
+        "Name": "蹒跚僵尸30",
         "Image": 70,
         "AI": 25,
         "Effect": 0,
@@ -3789,12 +3677,11 @@
                 "HP": 155
             },
             "Count": 214
-        },
-        "GameName": "Zombie"
+        }
     },
     {
         "Index": 114,
-        "Name": "Zombie4",
+        "Name": "石肤僵尸4",
         "Image": 71,
         "AI": 25,
         "Effect": 0,
@@ -3825,12 +3712,11 @@
                 "HP": 155
             },
             "Count": 211
-        },
-        "GameName": "Zombie"
+        }
     },
     {
         "Index": 115,
-        "Name": "Zombie40",
+        "Name": "石肤僵尸40",
         "Image": 71,
         "AI": 25,
         "Effect": 0,
@@ -3861,12 +3747,11 @@
                 "HP": 155
             },
             "Count": 211
-        },
-        "GameName": "Zombie"
+        }
     },
     {
         "Index": 116,
-        "Name": "Zombie5",
+        "Name": "爬行僵尸5",
         "Image": 72,
         "AI": 25,
         "Effect": 0,
@@ -3897,12 +3782,11 @@
                 "HP": 155
             },
             "Count": 211
-        },
-        "GameName": "Zombie"
+        }
     },
     {
         "Index": 117,
-        "Name": "Zombie50",
+        "Name": "爬行僵尸50",
         "Image": 72,
         "AI": 25,
         "Effect": 0,
@@ -3933,12 +3817,11 @@
                 "HP": 155
             },
             "Count": 211
-        },
-        "GameName": "Zombie"
+        }
     },
     {
         "Index": 118,
-        "Name": "Ghoul",
+        "Name": "尸王",
         "Image": 74,
         "AI": 0,
         "Effect": 0,
@@ -3969,12 +3852,11 @@
                 "HP": 500
             },
             "Count": 598
-        },
-        "GameName": "Ghoul"
+        }
     },
     {
         "Index": 119,
-        "Name": "Ghoul1",
+        "Name": "尸王1",
         "Image": 74,
         "AI": 0,
         "Effect": 0,
@@ -4002,12 +3884,11 @@
                 "HP": 500
             },
             "Count": 797
-        },
-        "GameName": "Ghoul"
+        }
     },
     {
         "Index": 120,
-        "Name": "Ghoul2",
+        "Name": "尸王2",
         "Image": 74,
         "AI": 0,
         "Effect": 0,
@@ -4038,12 +3919,11 @@
                 "HP": 500
             },
             "Count": 588
-        },
-        "GameName": "Ghoul"
+        }
     },
     {
         "Index": 121,
-        "Name": "Ghoul4",
+        "Name": "尸王4",
         "Image": 74,
         "AI": 0,
         "Effect": 0,
@@ -4074,12 +3954,11 @@
                 "HP": 500
             },
             "Count": 579
-        },
-        "GameName": "Ghoul"
+        }
     },
     {
         "Index": 122,
-        "Name": "PriestZombie",
+        "Name": "僵尸神父",
         "Image": 69,
         "AI": 24,
         "Effect": 0,
@@ -4106,12 +3985,11 @@
                 "HP": 155
             },
             "Count": 209
-        },
-        "GameName": "PriestZombie"
+        }
     },
     {
         "Index": 123,
-        "Name": "PriestZombie0",
+        "Name": "僵尸神父0",
         "Image": 69,
         "AI": 24,
         "Effect": 0,
@@ -4138,12 +4016,11 @@
                 "HP": 155
             },
             "Count": 209
-        },
-        "GameName": "PriestZombie"
+        }
     },
     {
         "Index": 124,
-        "Name": "ClZombie",
+        "Name": "蹒跚僵尸",
         "Image": 70,
         "AI": 25,
         "Effect": 0,
@@ -4174,12 +4051,11 @@
                 "HP": 155
             },
             "Count": 214
-        },
-        "GameName": "ClZombie"
+        }
     },
     {
         "Index": 125,
-        "Name": "ClZombie0",
+        "Name": "蹒跚僵尸0",
         "Image": 70,
         "AI": 25,
         "Effect": 0,
@@ -4210,12 +4086,11 @@
                 "HP": 155
             },
             "Count": 214
-        },
-        "GameName": "ClZombie"
+        }
     },
     {
         "Index": 126,
-        "Name": "NdZombie",
+        "Name": "石肤僵尸",
         "Image": 71,
         "AI": 25,
         "Effect": 0,
@@ -4246,12 +4121,11 @@
                 "HP": 155
             },
             "Count": 211
-        },
-        "GameName": "NdZombie"
+        }
     },
     {
         "Index": 127,
-        "Name": "NdZombie0",
+        "Name": "石肤僵尸0",
         "Image": 71,
         "AI": 25,
         "Effect": 0,
@@ -4282,12 +4156,11 @@
                 "HP": 155
             },
             "Count": 211
-        },
-        "GameName": "NdZombie"
+        }
     },
     {
         "Index": 128,
-        "Name": "CrawlerZombie",
+        "Name": "爬行僵尸",
         "Image": 72,
         "AI": 25,
         "Effect": 0,
@@ -4318,12 +4191,11 @@
                 "HP": 155
             },
             "Count": 211
-        },
-        "GameName": "CrawlerZombie"
+        }
     },
     {
         "Index": 129,
-        "Name": "CrawlerZombie0",
+        "Name": "爬行僵尸0",
         "Image": 72,
         "AI": 25,
         "Effect": 0,
@@ -4354,12 +4226,11 @@
                 "HP": 155
             },
             "Count": 211
-        },
-        "GameName": "CrawlerZombie"
+        }
     },
     {
         "Index": 130,
-        "Name": "ShamanZombie",
+        "Name": "萨满僵尸",
         "Image": 73,
         "AI": 26,
         "Effect": 0,
@@ -4390,12 +4261,11 @@
                 "HP": 155
             },
             "Count": 211
-        },
-        "GameName": "ShamanZombie"
+        }
     },
     {
         "Index": 131,
-        "Name": "ShamanZombie0",
+        "Name": "萨满僵尸0",
         "Image": 73,
         "AI": 26,
         "Effect": 0,
@@ -4426,12 +4296,11 @@
                 "HP": 155
             },
             "Count": 211
-        },
-        "GameName": "ShamanZombie"
+        }
     },
     {
         "Index": 132,
-        "Name": "RotNdZombie",
+        "Name": "暗之石肤僵尸",
         "Image": 71,
         "AI": 25,
         "Effect": 0,
@@ -4462,12 +4331,11 @@
                 "HP": 155
             },
             "Count": 211
-        },
-        "GameName": "RotNdZombie"
+        }
     },
     {
         "Index": 133,
-        "Name": "RotShamanZombie",
+        "Name": "暗之萨满僵尸",
         "Image": 73,
         "AI": 26,
         "Effect": 0,
@@ -4498,12 +4366,11 @@
                 "HP": 155
             },
             "Count": 211
-        },
-        "GameName": "RotShamanZombie"
+        }
     },
     {
         "Index": 134,
-        "Name": "Zombie51",
+        "Name": "僵尸51",
         "Image": 73,
         "AI": 26,
         "Effect": 0,
@@ -4534,12 +4401,11 @@
                 "HP": 155
             },
             "Count": 211
-        },
-        "GameName": "Zombie"
+        }
     },
     {
         "Index": 135,
-        "Name": "HiGreatGhoul",
+        "Name": "变异尸王",
         "Image": 74,
         "AI": 0,
         "Effect": 0,
@@ -4570,12 +4436,11 @@
                 "HP": 500
             },
             "Count": 582
-        },
-        "GameName": "HiGreatGhoul"
+        }
     },
     {
         "Index": 136,
-        "Name": "WhiteSerpent",
+        "Name": "白蛇",
         "Image": 114,
         "AI": 0,
         "Effect": 0,
@@ -4606,12 +4471,11 @@
                 "HP": 275
             },
             "Count": 417
-        },
-        "GameName": "WhiteSerpent"
+        }
     },
     {
         "Index": 137,
-        "Name": "Ghoul10",
+        "Name": "尸王10",
         "Image": 74,
         "AI": 0,
         "Effect": 0,
@@ -4639,12 +4503,11 @@
                 "HP": 800
             },
             "Count": 1097
-        },
-        "GameName": "Ghoul"
+        }
     },
     {
         "Index": 138,
-        "Name": "BlueViper",
+        "Name": "碧蓝幼蛇",
         "Image": 115,
         "AI": 0,
         "Effect": 0,
@@ -4675,12 +4538,11 @@
                 "HP": 1100
             },
             "Count": 1262
-        },
-        "GameName": "BlueViper"
+        }
     },
     {
         "Index": 139,
-        "Name": "BlueViper0",
+        "Name": "碧蓝幼蛇0",
         "Image": 115,
         "AI": 0,
         "Effect": 0,
@@ -4711,12 +4573,11 @@
                 "HP": 1100
             },
             "Count": 1262
-        },
-        "GameName": "BlueViper"
+        }
     },
     {
         "Index": 140,
-        "Name": "YellowViper",
+        "Name": "黄金幼蛇",
         "Image": 116,
         "AI": 0,
         "Effect": 0,
@@ -4747,12 +4608,11 @@
                 "HP": 1100
             },
             "Count": 1280
-        },
-        "GameName": "YellowViper"
+        }
     },
     {
         "Index": 141,
-        "Name": "YellowViper0",
+        "Name": "黄金幼蛇0",
         "Image": 116,
         "AI": 0,
         "Effect": 0,
@@ -4783,12 +4643,11 @@
                 "HP": 1100
             },
             "Count": 1280
-        },
-        "GameName": "YellowViper"
+        }
     },
     {
         "Index": 142,
-        "Name": "GuardianViper",
+        "Name": "蛇王护卫",
         "Image": 114,
         "AI": 0,
         "Effect": 0,
@@ -4819,12 +4678,11 @@
                 "HP": 3000
             },
             "Count": 3142
-        },
-        "GameName": "GuardianViper"
+        }
     },
     {
         "Index": 143,
-        "Name": "Yimoogi",
+        "Name": "浮龙金蛇",
         "Image": 113,
         "AI": 36,
         "Effect": 0,
@@ -4855,12 +4713,11 @@
                 "HP": 20000
             },
             "Count": 20420
-        },
-        "GameName": "Yimoogi"
+        }
     },
     {
         "Index": 144,
-        "Name": "TreasureBox",
+        "Name": "宝箱",
         "Image": 164,
         "AI": 3,
         "Effect": 0,
@@ -4887,12 +4744,11 @@
                 "HP": 10
             },
             "Count": 212
-        },
-        "GameName": "TreasureBox"
+        }
     },
     {
         "Index": 145,
-        "Name": "EliteArcher",
+        "Name": "恶魔弓箭手",
         "Image": 64,
         "AI": 8,
         "Effect": 0,
@@ -4923,12 +4779,11 @@
                 "HP": 1200
             },
             "Count": 1332
-        },
-        "GameName": "EliteArcher"
+        }
     },
     {
         "Index": 146,
-        "Name": "EliteStatue",
+        "Name": "恶魔雕像",
         "Image": 65,
         "AI": 15,
         "Effect": 0,
@@ -4959,12 +4814,11 @@
                 "HP": 1600
             },
             "Count": 1772
-        },
-        "GameName": "EliteStatue"
+        }
     },
     {
         "Index": 147,
-        "Name": "EliteGuardian",
+        "Name": "恶魔卫士",
         "Image": 66,
         "AI": 15,
         "Effect": 0,
@@ -4995,12 +4849,11 @@
                 "HP": 1800
             },
             "Count": 1983
-        },
-        "GameName": "EliteGuardian"
+        }
     },
     {
         "Index": 148,
-        "Name": "EvilSpider",
+        "Name": "恶魔蜘蛛",
         "Image": 61,
         "AI": 0,
         "Effect": 0,
@@ -5031,12 +4884,11 @@
                 "HP": 1800
             },
             "Count": 1961
-        },
-        "GameName": "EvilSpider"
+        }
     },
     {
         "Index": 149,
-        "Name": "EvilHog",
+        "Name": "恶魔猪王",
         "Image": 76,
         "AI": 0,
         "Effect": 0,
@@ -5067,12 +4919,11 @@
                 "HP": 1800
             },
             "Count": 1961
-        },
-        "GameName": "EvilHog"
+        }
     },
     {
         "Index": 150,
-        "Name": "BlackMaggot",
+        "Name": "黑色恶蛆",
         "Image": 38,
         "AI": 0,
         "Effect": 0,
@@ -5101,12 +4952,11 @@
                 "HP": 200
             },
             "Count": 263
-        },
-        "GameName": "BlackMaggot"
+        }
     },
     {
         "Index": 151,
-        "Name": "BlackMaggot0",
+        "Name": "黑色恶蛆0",
         "Image": 38,
         "AI": 0,
         "Effect": 0,
@@ -5135,12 +4985,11 @@
                 "HP": 200
             },
             "Count": 263
-        },
-        "GameName": "BlackMaggot"
+        }
     },
     {
         "Index": 152,
-        "Name": "Centipede",
+        "Name": "蜈蚣",
         "Image": 37,
         "AI": 0,
         "Effect": 0,
@@ -5169,12 +5018,11 @@
                 "HP": 210
             },
             "Count": 278
-        },
-        "GameName": "Centipede"
+        }
     },
     {
         "Index": 153,
-        "Name": "Centipede0",
+        "Name": "蜈蚣0",
         "Image": 37,
         "AI": 0,
         "Effect": 0,
@@ -5203,12 +5051,11 @@
                 "HP": 210
             },
             "Count": 278
-        },
-        "GameName": "Centipede"
+        }
     },
     {
         "Index": 154,
-        "Name": "GiantWorm",
+        "Name": "巨型蠕虫",
         "Image": 36,
         "AI": 0,
         "Effect": 0,
@@ -5239,12 +5086,11 @@
                 "HP": 180
             },
             "Count": 253
-        },
-        "GameName": "GiantWorm"
+        }
     },
     {
         "Index": 155,
-        "Name": "GiantWorm0",
+        "Name": "巨型蠕虫0",
         "Image": 36,
         "AI": 0,
         "Effect": 0,
@@ -5275,12 +5121,11 @@
                 "HP": 180
             },
             "Count": 253
-        },
-        "GameName": "GiantWorm"
+        }
     },
     {
         "Index": 156,
-        "Name": "WhimperingBee",
+        "Name": "跳跳蜂",
         "Image": 35,
         "AI": 0,
         "Effect": 0,
@@ -5311,12 +5156,11 @@
                 "HP": 180
             },
             "Count": 250
-        },
-        "GameName": "WhimperingBee"
+        }
     },
     {
         "Index": 157,
-        "Name": "WhimperingBee0",
+        "Name": "跳跳蜂0",
         "Image": 35,
         "AI": 0,
         "Effect": 0,
@@ -5347,12 +5191,11 @@
                 "HP": 180
             },
             "Count": 250
-        },
-        "GameName": "WhimperingBee"
+        }
     },
     {
         "Index": 158,
-        "Name": "Tongs",
+        "Name": "钳虫",
         "Image": 39,
         "AI": 0,
         "Effect": 0,
@@ -5383,12 +5226,11 @@
                 "HP": 240
             },
             "Count": 332
-        },
-        "GameName": "Tongs"
+        }
     },
     {
         "Index": 159,
-        "Name": "Tongs0",
+        "Name": "钳虫0",
         "Image": 39,
         "AI": 0,
         "Effect": 0,
@@ -5419,12 +5261,11 @@
                 "HP": 240
             },
             "Count": 332
-        },
-        "GameName": "Tongs"
+        }
     },
     {
         "Index": 160,
-        "Name": "EvilTongs",
+        "Name": "邪恶钳虫",
         "Image": 40,
         "AI": 0,
         "Effect": 0,
@@ -5455,12 +5296,11 @@
                 "HP": 2000
             },
             "Count": 2164
-        },
-        "GameName": "EvilTongs"
+        }
     },
     {
         "Index": 161,
-        "Name": "EvilTongs1",
+        "Name": "邪恶钳虫1",
         "Image": 40,
         "AI": 0,
         "Effect": 0,
@@ -5491,12 +5331,11 @@
                 "HP": 2000
             },
             "Count": 2169
-        },
-        "GameName": "EvilTongs"
+        }
     },
     {
         "Index": 162,
-        "Name": "EvilTongs2",
+        "Name": "邪恶钳虫2",
         "Image": 40,
         "AI": 0,
         "Effect": 0,
@@ -5527,12 +5366,11 @@
                 "HP": 2000
             },
             "Count": 2169
-        },
-        "GameName": "EvilTongs"
+        }
     },
     {
         "Index": 163,
-        "Name": "EvilTongs9",
+        "Name": "邪恶钳虫9",
         "Image": 40,
         "AI": 0,
         "Effect": 0,
@@ -5563,12 +5401,11 @@
                 "HP": 2000
             },
             "Count": 2164
-        },
-        "GameName": "EvilTongs"
+        }
     },
     {
         "Index": 164,
-        "Name": "EvilCentipede",
+        "Name": "触龙神",
         "Image": 41,
         "AI": 14,
         "Effect": 0,
@@ -5601,12 +5438,11 @@
                 "HP": 2000
             },
             "Count": 2370
-        },
-        "GameName": "EvilCentipede"
+        }
     },
     {
         "Index": 165,
-        "Name": "WedgeMoth",
+        "Name": "楔蛾",
         "Image": 44,
         "AI": 7,
         "Effect": 0,
@@ -5637,12 +5473,11 @@
                 "HP": 220
             },
             "Count": 284
-        },
-        "GameName": "WedgeMoth"
+        }
     },
     {
         "Index": 166,
-        "Name": "BugBat",
+        "Name": "小蝙蝠",
         "Image": 42,
         "AI": 0,
         "Effect": 0,
@@ -5668,12 +5503,11 @@
                 "HP": 3
             },
             "Count": 49
-        },
-        "GameName": "BugBat"
+        }
     },
     {
         "Index": 167,
-        "Name": "BugBatMaggot",
+        "Name": "角蝇",
         "Image": 43,
         "AI": 12,
         "Effect": 0,
@@ -5700,12 +5534,11 @@
                 "HP": 200
             },
             "Count": 245
-        },
-        "GameName": "BugBatMaggot"
+        }
     },
     {
         "Index": 168,
-        "Name": "RedBoar",
+        "Name": "红野猪",
         "Image": 45,
         "AI": 0,
         "Effect": 0,
@@ -5734,12 +5567,11 @@
                 "HP": 300
             },
             "Count": 387
-        },
-        "GameName": "RedBoar"
+        }
     },
     {
         "Index": 169,
-        "Name": "RedBoar0",
+        "Name": "红野猪0",
         "Image": 45,
         "AI": 0,
         "Effect": 0,
@@ -5768,12 +5600,11 @@
                 "HP": 300
             },
             "Count": 387
-        },
-        "GameName": "RedBoar"
+        }
     },
     {
         "Index": 170,
-        "Name": "RedBoar3",
+        "Name": "红野猪3",
         "Image": 45,
         "AI": 0,
         "Effect": 0,
@@ -5802,12 +5633,11 @@
                 "HP": 300
             },
             "Count": 389
-        },
-        "GameName": "RedBoar"
+        }
     },
     {
         "Index": 171,
-        "Name": "BlackBoar",
+        "Name": "黑野猪",
         "Image": 46,
         "AI": 0,
         "Effect": 0,
@@ -5836,12 +5666,11 @@
                 "HP": 280
             },
             "Count": 374
-        },
-        "GameName": "BlackBoar"
+        }
     },
     {
         "Index": 172,
-        "Name": "BlackBoar0",
+        "Name": "黑野猪0",
         "Image": 46,
         "AI": 0,
         "Effect": 0,
@@ -5870,12 +5699,11 @@
                 "HP": 280
             },
             "Count": 374
-        },
-        "GameName": "BlackBoar"
+        }
     },
     {
         "Index": 173,
-        "Name": "BlackBoar3",
+        "Name": "黑野猪3",
         "Image": 46,
         "AI": 0,
         "Effect": 0,
@@ -5904,12 +5732,11 @@
                 "HP": 280
             },
             "Count": 376
-        },
-        "GameName": "BlackBoar"
+        }
     },
     {
         "Index": 174,
-        "Name": "WhiteBoar",
+        "Name": "白野猪",
         "Image": 48,
         "AI": 0,
         "Effect": 0,
@@ -5940,12 +5767,11 @@
                 "HP": 2000
             },
             "Count": 2184
-        },
-        "GameName": "WhiteBoar"
+        }
     },
     {
         "Index": 175,
-        "Name": "WhiteBoar0",
+        "Name": "白野猪0",
         "Image": 48,
         "AI": 0,
         "Effect": 0,
@@ -5976,12 +5802,11 @@
                 "HP": 2000
             },
             "Count": 2179
-        },
-        "GameName": "WhiteBoar"
+        }
     },
     {
         "Index": 176,
-        "Name": "WhiteBoar1",
+        "Name": "白野猪1",
         "Image": 48,
         "AI": 0,
         "Effect": 0,
@@ -6012,12 +5837,11 @@
                 "HP": 2000
             },
             "Count": 2182
-        },
-        "GameName": "WhiteBoar"
+        }
     },
     {
         "Index": 177,
-        "Name": "SnakeScorpion",
+        "Name": "蝎蛇",
         "Image": 47,
         "AI": 0,
         "Effect": 0,
@@ -6048,12 +5872,11 @@
                 "HP": 330
             },
             "Count": 424
-        },
-        "GameName": "SnakeScorpion"
+        }
     },
     {
         "Index": 178,
-        "Name": "SnakeScorpion0",
+        "Name": "蝎蛇0",
         "Image": 47,
         "AI": 0,
         "Effect": 0,
@@ -6084,12 +5907,11 @@
                 "HP": 330
             },
             "Count": 424
-        },
-        "GameName": "SnakeScorpion"
+        }
     },
     {
         "Index": 179,
-        "Name": "SnakeScorpion3",
+        "Name": "蝎蛇3",
         "Image": 47,
         "AI": 0,
         "Effect": 0,
@@ -6120,12 +5942,11 @@
                 "HP": 330
             },
             "Count": 424
-        },
-        "GameName": "SnakeScorpion"
+        }
     },
     {
         "Index": 180,
-        "Name": "EvilSnake",
+        "Name": "邪恶毒蛇",
         "Image": 49,
         "AI": 0,
         "Effect": 0,
@@ -6156,12 +5977,11 @@
                 "HP": 2000
             },
             "Count": 2280
-        },
-        "GameName": "EvilSnake"
+        }
     },
     {
         "Index": 181,
-        "Name": "EvilSnake1",
+        "Name": "邪恶毒蛇1",
         "Image": 49,
         "AI": 0,
         "Effect": 0,
@@ -6192,12 +6012,11 @@
                 "HP": 2000
             },
             "Count": 2272
-        },
-        "GameName": "EvilSnake"
+        }
     },
     {
         "Index": 182,
-        "Name": "Ancient_BlackMaggot",
+        "Name": "远古黑色恶蛆",
         "Image": 38,
         "AI": 0,
         "Effect": 0,
@@ -6226,12 +6045,11 @@
                 "HP": 800
             },
             "Count": 922
-        },
-        "GameName": "Ancient_BlackMaggot"
+        }
     },
     {
         "Index": 183,
-        "Name": "Ancient_BlackMaggot0",
+        "Name": "远古黑色恶蛆0",
         "Image": 38,
         "AI": 0,
         "Effect": 0,
@@ -6260,12 +6078,11 @@
                 "HP": 800
             },
             "Count": 922
-        },
-        "GameName": "Ancient_BlackMaggot"
+        }
     },
     {
         "Index": 184,
-        "Name": "Ancient_SnakeScorpion",
+        "Name": "远古蝎蛇",
         "Image": 47,
         "AI": 0,
         "Effect": 0,
@@ -6296,12 +6113,11 @@
                 "HP": 800
             },
             "Count": 900
-        },
-        "GameName": "Ancient_SnakeScorpion"
+        }
     },
     {
         "Index": 185,
-        "Name": "Ancient_SnakeScorpion0",
+        "Name": "远古蝎蛇0",
         "Image": 47,
         "AI": 0,
         "Effect": 0,
@@ -6332,12 +6148,11 @@
                 "HP": 800
             },
             "Count": 900
-        },
-        "GameName": "Ancient_SnakeScorpion"
+        }
     },
     {
         "Index": 186,
-        "Name": "Ancient_RedBoar",
+        "Name": "远古红猪",
         "Image": 45,
         "AI": 0,
         "Effect": 0,
@@ -6366,12 +6181,11 @@
                 "HP": 950
             },
             "Count": 1074
-        },
-        "GameName": "Ancient_RedBoar"
+        }
     },
     {
         "Index": 187,
-        "Name": "Ancient_RedBoar0",
+        "Name": "远古红猪0",
         "Image": 45,
         "AI": 0,
         "Effect": 0,
@@ -6400,12 +6214,11 @@
                 "HP": 950
             },
             "Count": 1074
-        },
-        "GameName": "Ancient_RedBoar"
+        }
     },
     {
         "Index": 188,
-        "Name": "Ancient_BlackBoar",
+        "Name": "远古黑猪",
         "Image": 46,
         "AI": 0,
         "Effect": 0,
@@ -6434,12 +6247,11 @@
                 "HP": 700
             },
             "Count": 844
-        },
-        "GameName": "Ancient_BlackBoar"
+        }
     },
     {
         "Index": 189,
-        "Name": "Ancient_BlackBoar0",
+        "Name": "远古黑猪0",
         "Image": 46,
         "AI": 0,
         "Effect": 0,
@@ -6468,12 +6280,11 @@
                 "HP": 700
             },
             "Count": 844
-        },
-        "GameName": "Ancient_BlackBoar"
+        }
     },
     {
         "Index": 190,
-        "Name": "Ancient_WhiteBoar",
+        "Name": "远古白猪",
         "Image": 48,
         "AI": 0,
         "Effect": 0,
@@ -6502,12 +6313,11 @@
                 "HP": 12000
             },
             "Count": 12232
-        },
-        "GameName": "Ancient_WhiteBoar"
+        }
     },
     {
         "Index": 191,
-        "Name": "Ancient_KingHog",
+        "Name": "远古猪王",
         "Image": 76,
         "AI": 0,
         "Effect": 0,
@@ -6538,12 +6348,11 @@
                 "HP": 8000
             },
             "Count": 8193
-        },
-        "GameName": "Ancient_KingHog"
+        }
     },
     {
         "Index": 192,
-        "Name": "GiantRat",
+        "Name": "大老鼠",
         "Image": 63,
         "AI": 0,
         "Effect": 0,
@@ -6572,12 +6381,11 @@
                 "HP": 1000
             },
             "Count": 1086
-        },
-        "GameName": "GiantRat"
+        }
     },
     {
         "Index": 193,
-        "Name": "GiantRat0",
+        "Name": "大老鼠0",
         "Image": 63,
         "AI": 0,
         "Effect": 0,
@@ -6606,12 +6414,11 @@
                 "HP": 1000
             },
             "Count": 1086
-        },
-        "GameName": "GiantRat"
+        }
     },
     {
         "Index": 194,
-        "Name": "ZumaArcher",
+        "Name": "祖玛弓箭手",
         "Image": 64,
         "AI": 8,
         "Effect": 0,
@@ -6642,12 +6449,11 @@
                 "HP": 900
             },
             "Count": 1042
-        },
-        "GameName": "ZumaArcher"
+        }
     },
     {
         "Index": 195,
-        "Name": "ZumaArcher0",
+        "Name": "祖玛弓箭手0",
         "Image": 64,
         "AI": 8,
         "Effect": 0,
@@ -6678,12 +6484,11 @@
                 "HP": 900
             },
             "Count": 1042
-        },
-        "GameName": "ZumaArcher"
+        }
     },
     {
         "Index": 196,
-        "Name": "ZumaArcher3",
+        "Name": "祖玛弓箭手3",
         "Image": 64,
         "AI": 8,
         "Effect": 0,
@@ -6714,12 +6519,11 @@
                 "HP": 900
             },
             "Count": 1042
-        },
-        "GameName": "ZumaArcher"
+        }
     },
     {
         "Index": 197,
-        "Name": "ZumaStatue",
+        "Name": "祖玛雕像",
         "Image": 65,
         "AI": 15,
         "Effect": 0,
@@ -6750,12 +6554,11 @@
                 "HP": 1000
             },
             "Count": 1138
-        },
-        "GameName": "ZumaStatue"
+        }
     },
     {
         "Index": 198,
-        "Name": "ZumaStatue0",
+        "Name": "祖玛雕像0",
         "Image": 65,
         "AI": 15,
         "Effect": 0,
@@ -6786,12 +6589,11 @@
                 "HP": 1000
             },
             "Count": 1138
-        },
-        "GameName": "ZumaStatue"
+        }
     },
     {
         "Index": 199,
-        "Name": "ZumaStatue3",
+        "Name": "祖玛雕像3",
         "Image": 65,
         "AI": 15,
         "Effect": 0,
@@ -6822,12 +6624,11 @@
                 "HP": 1000
             },
             "Count": 1138
-        },
-        "GameName": "ZumaStatue"
+        }
     },
     {
         "Index": 200,
-        "Name": "ZumaGuardian",
+        "Name": "祖玛卫士",
         "Image": 66,
         "AI": 15,
         "Effect": 0,
@@ -6858,12 +6659,11 @@
                 "HP": 1100
             },
             "Count": 1269
-        },
-        "GameName": "ZumaGuardian"
+        }
     },
     {
         "Index": 201,
-        "Name": "ZumaGuardian0",
+        "Name": "祖玛卫士0",
         "Image": 66,
         "AI": 15,
         "Effect": 0,
@@ -6894,12 +6694,11 @@
                 "HP": 1100
             },
             "Count": 1269
-        },
-        "GameName": "ZumaGuardian"
+        }
     },
     {
         "Index": 202,
-        "Name": "ZumaGuardian3",
+        "Name": "祖玛卫士3",
         "Image": 66,
         "AI": 15,
         "Effect": 0,
@@ -6930,12 +6729,11 @@
                 "HP": 1100
             },
             "Count": 1269
-        },
-        "GameName": "ZumaGuardian"
+        }
     },
     {
         "Index": 203,
-        "Name": "ZumaGuardian00",
+        "Name": "祖玛卫士00",
         "Image": 66,
         "AI": 15,
         "Effect": 0,
@@ -6966,12 +6764,11 @@
                 "HP": 1100
             },
             "Count": 1285
-        },
-        "GameName": "ZumaGuardian"
+        }
     },
     {
         "Index": 204,
-        "Name": "RedThunderZuma",
+        "Name": "祖玛统领",
         "Image": 67,
         "AI": 16,
         "Effect": 0,
@@ -7002,12 +6799,11 @@
                 "HP": 3000
             },
             "Count": 3213
-        },
-        "GameName": "RedThunderZuma"
+        }
     },
     {
         "Index": 205,
-        "Name": "ZumaTaurus",
+        "Name": "祖玛教主",
         "Image": 68,
         "AI": 17,
         "Effect": 0,
@@ -7038,12 +6834,11 @@
                 "HP": 12000
             },
             "Count": 12312
-        },
-        "GameName": "ZumaTaurus"
+        }
     },
     {
         "Index": 206,
-        "Name": "ZumaTaurus9",
+        "Name": "祖玛教主9",
         "Image": 68,
         "AI": 17,
         "Effect": 0,
@@ -7074,12 +6869,11 @@
                 "HP": 12000
             },
             "Count": 12450
-        },
-        "GameName": "ZumaTaurus"
+        }
     },
     {
         "Index": 207,
-        "Name": "Ancient_GiantRat",
+        "Name": "远古大老鼠",
         "Image": 63,
         "AI": 0,
         "Effect": 0,
@@ -7108,12 +6902,11 @@
                 "HP": 900
             },
             "Count": 1098
-        },
-        "GameName": "Ancient_GiantRat"
+        }
     },
     {
         "Index": 208,
-        "Name": "Ancient_GiantRat0",
+        "Name": "远古大老鼠0",
         "Image": 63,
         "AI": 0,
         "Effect": 0,
@@ -7142,12 +6935,11 @@
                 "HP": 900
             },
             "Count": 1098
-        },
-        "GameName": "Ancient_GiantRat"
+        }
     },
     {
         "Index": 209,
-        "Name": "Ancient_ZumaArcher",
+        "Name": "远古祖玛弓箭手",
         "Image": 64,
         "AI": 8,
         "Effect": 0,
@@ -7176,12 +6968,11 @@
                 "HP": 900
             },
             "Count": 1102
-        },
-        "GameName": "Ancient_ZumaArcher"
+        }
     },
     {
         "Index": 210,
-        "Name": "Ancient_ZumaArcher0",
+        "Name": "远古祖玛弓箭手0",
         "Image": 64,
         "AI": 8,
         "Effect": 0,
@@ -7210,12 +7001,11 @@
                 "HP": 900
             },
             "Count": 1102
-        },
-        "GameName": "Ancient_ZumaArcher"
+        }
     },
     {
         "Index": 211,
-        "Name": "Ancient_ZumaStatue",
+        "Name": "远古祖玛雕像",
         "Image": 65,
         "AI": 15,
         "Effect": 0,
@@ -7244,12 +7034,11 @@
                 "HP": 1000
             },
             "Count": 1202
-        },
-        "GameName": "Ancient_ZumaStatue"
+        }
     },
     {
         "Index": 212,
-        "Name": "Ancient_ZumaStatue0",
+        "Name": "远古祖玛雕像0",
         "Image": 65,
         "AI": 15,
         "Effect": 0,
@@ -7278,12 +7067,11 @@
                 "HP": 1000
             },
             "Count": 1202
-        },
-        "GameName": "Ancient_ZumaStatue"
+        }
     },
     {
         "Index": 213,
-        "Name": "Ancient_ZumaGuardian",
+        "Name": "远古祖玛卫士",
         "Image": 66,
         "AI": 15,
         "Effect": 0,
@@ -7312,12 +7100,11 @@
                 "HP": 1100
             },
             "Count": 1308
-        },
-        "GameName": "Ancient_ZumaGuardian"
+        }
     },
     {
         "Index": 214,
-        "Name": "Ancient_ZumaGuardian0",
+        "Name": "远古祖玛卫士0",
         "Image": 66,
         "AI": 15,
         "Effect": 0,
@@ -7346,12 +7133,11 @@
                 "HP": 1100
             },
             "Count": 1308
-        },
-        "GameName": "Ancient_ZumaGuardian"
+        }
     },
     {
         "Index": 215,
-        "Name": "Ancient_RedThunderZuma",
+        "Name": "远古祖玛统领",
         "Image": 67,
         "AI": 16,
         "Effect": 0,
@@ -7380,12 +7166,11 @@
                 "HP": 32767
             },
             "Count": 33003
-        },
-        "GameName": "Ancient_RedThunderZuma"
+        }
     },
     {
         "Index": 216,
-        "Name": "RedFoxMan",
+        "Name": "赤狐",
         "Image": 128,
         "AI": 45,
         "Effect": 0,
@@ -7418,12 +7203,11 @@
                 "HP": 800
             },
             "Count": 1047
-        },
-        "GameName": "RedFoxMan"
+        }
     },
     {
         "Index": 217,
-        "Name": "BlackFoxMan",
+        "Name": "黑狐",
         "Image": 127,
         "AI": 44,
         "Effect": 0,
@@ -7454,12 +7238,11 @@
                 "HP": 1500
             },
             "Count": 1638
-        },
-        "GameName": "BlackFoxMan"
+        }
     },
     {
         "Index": 218,
-        "Name": "WhiteFoxMan",
+        "Name": "素狐",
         "Image": 129,
         "AI": 46,
         "Effect": 0,
@@ -7490,12 +7273,11 @@
                 "HP": 1200
             },
             "Count": 1382
-        },
-        "GameName": "WhiteFoxMan"
+        }
     },
     {
         "Index": 219,
-        "Name": "TrapRock",
+        "Name": "狐月陷阱",
         "Image": 130,
         "AI": 47,
         "Effect": 0,
@@ -7526,12 +7308,11 @@
                 "HP": 700
             },
             "Count": 829
-        },
-        "GameName": "TrapRock"
+        }
     },
     {
         "Index": 220,
-        "Name": "TrapRock1",
+        "Name": "狐月陷阱1",
         "Image": 130,
         "AI": 47,
         "Effect": 0,
@@ -7562,12 +7343,11 @@
                 "HP": 700
             },
             "Count": 829
-        },
-        "GameName": "TrapRock"
+        }
     },
     {
         "Index": 221,
-        "Name": "GuardianRock",
+        "Name": "狐月天珠",
         "Image": 131,
         "AI": 48,
         "Effect": 0,
@@ -7598,12 +7378,11 @@
                 "HP": 1200
             },
             "Count": 1359
-        },
-        "GameName": "GuardianRock"
+        }
     },
     {
         "Index": 222,
-        "Name": "ElectricElement",
+        "Name": "电元素",
         "Image": 132,
         "AI": 49,
         "Effect": 0,
@@ -7634,12 +7413,11 @@
                 "HP": 1000
             },
             "Count": 1478
-        },
-        "GameName": "ElectricElement"
+        }
     },
     {
         "Index": 223,
-        "Name": "CloudElement",
+        "Name": "气元素",
         "Image": 133,
         "AI": 49,
         "Effect": 0,
@@ -7670,12 +7448,11 @@
                 "HP": 1500
             },
             "Count": 2039
-        },
-        "GameName": "CloudElement"
+        }
     },
     {
         "Index": 224,
-        "Name": "HedgeKekTal",
+        "Name": "狐月虎虫",
         "Image": 135,
         "AI": 51,
         "Effect": 0,
@@ -7706,12 +7483,11 @@
                 "HP": 700
             },
             "Count": 868
-        },
-        "GameName": "HedgeKekTal"
+        }
     },
     {
         "Index": 225,
-        "Name": "BigHedgeKekTal",
+        "Name": "狐月蓝蛙",
         "Image": 136,
         "AI": 51,
         "Effect": 0,
@@ -7742,12 +7518,11 @@
                 "HP": 800
             },
             "Count": 984
-        },
-        "GameName": "BigHedgeKekTal"
+        }
     },
     {
         "Index": 226,
-        "Name": "BrownFrogSpider",
+        "Name": "狐月褐蛙",
         "Image": 138,
         "AI": 0,
         "Effect": 0,
@@ -7778,12 +7553,11 @@
                 "HP": 880
             },
             "Count": 1058
-        },
-        "GameName": "BrownFrogSpider"
+        }
     },
     {
         "Index": 227,
-        "Name": "RedFrogSpider",
+        "Name": "狐月火蛙",
         "Image": 137,
         "AI": 0,
         "Effect": 0,
@@ -7814,12 +7588,11 @@
                 "HP": 760
             },
             "Count": 930
-        },
-        "GameName": "RedFrogSpider"
+        }
     },
     {
         "Index": 228,
-        "Name": "GreatFoxSpirit",
+        "Name": "圣狐魂",
         "Image": 134,
         "AI": 50,
         "Effect": 0,
@@ -7852,12 +7625,11 @@
                 "HP": 15000
             },
             "Count": 15392
-        },
-        "GameName": "GreatFoxSpirit"
+        }
     },
     {
         "Index": 229,
-        "Name": "SpiderFrog",
+        "Name": "血蛙",
         "Image": 81,
         "AI": 0,
         "Effect": 0,
@@ -7888,12 +7660,11 @@
                 "HP": 185
             },
             "Count": 253
-        },
-        "GameName": "SpiderFrog"
+        }
     },
     {
         "Index": 230,
-        "Name": "SpiderFrog0",
+        "Name": "血蛙0",
         "Image": 81,
         "AI": 0,
         "Effect": 0,
@@ -7924,12 +7695,11 @@
                 "HP": 185
             },
             "Count": 253
-        },
-        "GameName": "SpiderFrog"
+        }
     },
     {
         "Index": 231,
-        "Name": "HoroBlaster",
+        "Name": "魔眼",
         "Image": 82,
         "AI": 0,
         "Effect": 0,
@@ -7960,12 +7730,11 @@
                 "HP": 200
             },
             "Count": 271
-        },
-        "GameName": "HoroBlaster"
+        }
     },
     {
         "Index": 232,
-        "Name": "HoroBlaster0",
+        "Name": "魔眼0",
         "Image": 82,
         "AI": 0,
         "Effect": 0,
@@ -7996,12 +7765,11 @@
                 "HP": 200
             },
             "Count": 271
-        },
-        "GameName": "HoroBlaster"
+        }
     },
     {
         "Index": 233,
-        "Name": "BlueHoroBlaster",
+        "Name": "碧蓝魔眼",
         "Image": 83,
         "AI": 0,
         "Effect": 0,
@@ -8032,12 +7800,11 @@
                 "HP": 180
             },
             "Count": 248
-        },
-        "GameName": "BlueHoroBlaster"
+        }
     },
     {
         "Index": 234,
-        "Name": "BlueHoroBlaster0",
+        "Name": "碧蓝魔眼0",
         "Image": 83,
         "AI": 0,
         "Effect": 0,
@@ -8068,12 +7835,11 @@
                 "HP": 180
             },
             "Count": 248
-        },
-        "GameName": "BlueHoroBlaster"
+        }
     },
     {
         "Index": 235,
-        "Name": "KekTal",
+        "Name": "虎虫",
         "Image": 84,
         "AI": 0,
         "Effect": 0,
@@ -8104,12 +7870,11 @@
                 "HP": 190
             },
             "Count": 264
-        },
-        "GameName": "KekTal"
+        }
     },
     {
         "Index": 236,
-        "Name": "KekTal0",
+        "Name": "虎虫0",
         "Image": 84,
         "AI": 0,
         "Effect": 0,
@@ -8140,12 +7905,11 @@
                 "HP": 190
             },
             "Count": 264
-        },
-        "GameName": "KekTal"
+        }
     },
     {
         "Index": 237,
-        "Name": "VioletKekTal",
+        "Name": "紫虎虫",
         "Image": 85,
         "AI": 0,
         "Effect": 0,
@@ -8176,12 +7940,11 @@
                 "HP": 190
             },
             "Count": 264
-        },
-        "GameName": "VioletKekTal"
+        }
     },
     {
         "Index": 238,
-        "Name": "VioletKekTal0",
+        "Name": "紫虎虫0",
         "Image": 85,
         "AI": 0,
         "Effect": 0,
@@ -8212,12 +7975,11 @@
                 "HP": 190
             },
             "Count": 264
-        },
-        "GameName": "VioletKekTal"
+        }
     },
     {
         "Index": 239,
-        "Name": "Khazard",
+        "Name": "狂热火蜥蜴",
         "Image": 86,
         "AI": 27,
         "Effect": 0,
@@ -8248,12 +8010,11 @@
                 "HP": 2000
             },
             "Count": 2151
-        },
-        "GameName": "Khazard"
+        }
     },
     {
         "Index": 240,
-        "Name": "Dark",
+        "Name": "暗黑战士",
         "Image": 28,
         "AI": 8,
         "Effect": 0,
@@ -8284,12 +8045,11 @@
                 "HP": 165
             },
             "Count": 230
-        },
-        "GameName": "Dark"
+        }
     },
     {
         "Index": 241,
-        "Name": "Dark0",
+        "Name": "暗黑战士0",
         "Image": 28,
         "AI": 8,
         "Effect": 0,
@@ -8320,12 +8080,11 @@
                 "HP": 165
             },
             "Count": 230
-        },
-        "GameName": "Dark"
+        }
     },
     {
         "Index": 242,
-        "Name": "Dung",
+        "Name": "粪虫",
         "Image": 27,
         "AI": 7,
         "Effect": 0,
@@ -8356,12 +8115,11 @@
                 "HP": 155
             },
             "Count": 218
-        },
-        "GameName": "Dung"
+        }
     },
     {
         "Index": 243,
-        "Name": "Dung0",
+        "Name": "粪虫0",
         "Image": 27,
         "AI": 7,
         "Effect": 0,
@@ -8392,12 +8150,11 @@
                 "HP": 155
             },
             "Count": 218
-        },
-        "GameName": "Dung"
+        }
     },
     {
         "Index": 244,
-        "Name": "WoomaSoldier",
+        "Name": "沃玛军士",
         "Image": 29,
         "AI": 0,
         "Effect": 0,
@@ -8428,12 +8185,11 @@
                 "HP": 285
             },
             "Count": 367
-        },
-        "GameName": "WoomaSoldier"
+        }
     },
     {
         "Index": 245,
-        "Name": "WoomaSoldier0",
+        "Name": "沃玛军士0",
         "Image": 29,
         "AI": 0,
         "Effect": 0,
@@ -8464,12 +8220,11 @@
                 "HP": 285
             },
             "Count": 367
-        },
-        "GameName": "WoomaSoldier"
+        }
     },
     {
         "Index": 246,
-        "Name": "WoomaFighter",
+        "Name": "沃玛战士",
         "Image": 30,
         "AI": 0,
         "Effect": 0,
@@ -8500,12 +8255,11 @@
                 "HP": 285
             },
             "Count": 367
-        },
-        "GameName": "WoomaFighter"
+        }
     },
     {
         "Index": 247,
-        "Name": "WoomaFighter0",
+        "Name": "沃玛战士0",
         "Image": 30,
         "AI": 0,
         "Effect": 0,
@@ -8536,12 +8290,11 @@
                 "HP": 285
             },
             "Count": 367
-        },
-        "GameName": "WoomaFighter"
+        }
     },
     {
         "Index": 248,
-        "Name": "WoomaWarrior",
+        "Name": "沃玛勇士",
         "Image": 31,
         "AI": 0,
         "Effect": 0,
@@ -8572,12 +8325,11 @@
                 "HP": 285
             },
             "Count": 366
-        },
-        "GameName": "WoomaWarrior"
+        }
     },
     {
         "Index": 249,
-        "Name": "WoomaWarrior0",
+        "Name": "沃玛勇士0",
         "Image": 31,
         "AI": 0,
         "Effect": 0,
@@ -8608,12 +8360,11 @@
                 "HP": 285
             },
             "Count": 366
-        },
-        "GameName": "WoomaWarrior"
+        }
     },
     {
         "Index": 250,
-        "Name": "FlamingWooma",
+        "Name": "火焰沃玛",
         "Image": 32,
         "AI": 10,
         "Effect": 0,
@@ -8640,12 +8391,11 @@
                 "HP": 240
             },
             "Count": 320
-        },
-        "GameName": "FlamingWooma"
+        }
     },
     {
         "Index": 251,
-        "Name": "FlamingWooma0",
+        "Name": "火焰沃玛0",
         "Image": 32,
         "AI": 10,
         "Effect": 0,
@@ -8672,12 +8422,11 @@
                 "HP": 240
             },
             "Count": 320
-        },
-        "GameName": "FlamingWooma"
+        }
     },
     {
         "Index": 252,
-        "Name": "FlamingWooma2",
+        "Name": "火焰沃玛2",
         "Image": 32,
         "AI": 10,
         "Effect": 0,
@@ -8704,12 +8453,11 @@
                 "HP": 240
             },
             "Count": 320
-        },
-        "GameName": "FlamingWooma"
+        }
     },
     {
         "Index": 253,
-        "Name": "WoomaGuardian",
+        "Name": "沃玛卫士",
         "Image": 33,
         "AI": 0,
         "Effect": 0,
@@ -8740,12 +8488,11 @@
                 "HP": 1000
             },
             "Count": 1133
-        },
-        "GameName": "WoomaGuardian"
+        }
     },
     {
         "Index": 254,
-        "Name": "WoomaGuardian1",
+        "Name": "沃玛卫士1",
         "Image": 33,
         "AI": 0,
         "Effect": 0,
@@ -8775,12 +8522,11 @@
                 "HP": 600
             },
             "Count": 767
-        },
-        "GameName": "WoomaGuardian"
+        }
     },
     {
         "Index": 255,
-        "Name": "WoomaGuardian2",
+        "Name": "沃玛卫士2",
         "Image": 33,
         "AI": 0,
         "Effect": 0,
@@ -8811,12 +8557,11 @@
                 "HP": 1000
             },
             "Count": 1269
-        },
-        "GameName": "WoomaGuardian"
+        }
     },
     {
         "Index": 256,
-        "Name": "WoomaTaurus",
+        "Name": "沃玛教主",
         "Image": 34,
         "AI": 11,
         "Effect": 0,
@@ -8847,12 +8592,11 @@
                 "HP": 3000
             },
             "Count": 3305
-        },
-        "GameName": "WoomaTaurus"
+        }
     },
     {
         "Index": 257,
-        "Name": "WoomaTaurus1",
+        "Name": "沃玛教主1",
         "Image": 34,
         "AI": 11,
         "Effect": 0,
@@ -8878,12 +8622,11 @@
                 "HP": 600
             },
             "Count": 657
-        },
-        "GameName": "WoomaTaurus"
+        }
     },
     {
         "Index": 258,
-        "Name": "WoomaTaurus9",
+        "Name": "沃玛教主9",
         "Image": 34,
         "AI": 11,
         "Effect": 0,
@@ -8914,12 +8657,11 @@
                 "HP": 2200
             },
             "Count": 2432
-        },
-        "GameName": "WoomaTaurus"
+        }
     },
     {
         "Index": 259,
-        "Name": "Ancient_WoomaSoldier",
+        "Name": "远古沃玛军士",
         "Image": 29,
         "AI": 0,
         "Effect": 0,
@@ -8950,12 +8692,11 @@
                 "HP": 1400
             },
             "Count": 1553
-        },
-        "GameName": "Ancient_WoomaSoldier"
+        }
     },
     {
         "Index": 260,
-        "Name": "Ancient_WoomaFighter",
+        "Name": "远古沃玛战士",
         "Image": 30,
         "AI": 0,
         "Effect": 0,
@@ -8986,12 +8727,11 @@
                 "HP": 1500
             },
             "Count": 1665
-        },
-        "GameName": "Ancient_WoomaFighter"
+        }
     },
     {
         "Index": 261,
-        "Name": "Ancient_WoomaWarrior",
+        "Name": "远古沃玛勇士",
         "Image": 31,
         "AI": 0,
         "Effect": 0,
@@ -9022,12 +8762,11 @@
                 "HP": 1450
             },
             "Count": 1606
-        },
-        "GameName": "Ancient_WoomaWarrior"
+        }
     },
     {
         "Index": 262,
-        "Name": "Ancient_FlamingWooma",
+        "Name": "远古火焰沃玛",
         "Image": 32,
         "AI": 10,
         "Effect": 0,
@@ -9054,12 +8793,11 @@
                 "HP": 1550
             },
             "Count": 1714
-        },
-        "GameName": "Ancient_FlamingWooma"
+        }
     },
     {
         "Index": 263,
-        "Name": "Ancient_WoomaGuardian",
+        "Name": "远古沃玛卫士",
         "Image": 33,
         "AI": 0,
         "Effect": 0,
@@ -9090,12 +8828,11 @@
                 "HP": 1500
             },
             "Count": 1703
-        },
-        "GameName": "Ancient_WoomaGuardian"
+        }
     },
     {
         "Index": 264,
-        "Name": "Ancient_WoomaTaurus",
+        "Name": "远古沃玛教主",
         "Image": 34,
         "AI": 11,
         "Effect": 0,
@@ -9126,12 +8863,11 @@
                 "HP": 30000
             },
             "Count": 30340
-        },
-        "GameName": "Ancient_WoomaTaurus"
+        }
     },
     {
         "Index": 265,
-        "Name": "EvilTongs20",
+        "Name": "邪恶钳虫20",
         "Image": 40,
         "AI": 0,
         "Effect": 0,
@@ -9162,12 +8898,11 @@
                 "HP": 1700
             },
             "Count": 1838
-        },
-        "GameName": "EvilTongs"
+        }
     },
     {
         "Index": 266,
-        "Name": "EvilTongs21",
+        "Name": "邪恶钳虫21",
         "Image": 40,
         "AI": 0,
         "Effect": 0,
@@ -9198,12 +8933,11 @@
                 "HP": 3000
             },
             "Count": 3169
-        },
-        "GameName": "EvilTongs"
+        }
     },
     {
         "Index": 267,
-        "Name": "EvilSnake20",
+        "Name": "邪恶毒蛇20",
         "Image": 49,
         "AI": 0,
         "Effect": 0,
@@ -9234,12 +8968,11 @@
                 "HP": 1700
             },
             "Count": 1838
-        },
-        "GameName": "EvilSnake"
+        }
     },
     {
         "Index": 268,
-        "Name": "EvilSnake21",
+        "Name": "邪恶毒蛇21",
         "Image": 49,
         "AI": 0,
         "Effect": 0,
@@ -9270,12 +9003,11 @@
                 "HP": 3000
             },
             "Count": 3169
-        },
-        "GameName": "EvilSnake"
+        }
     },
     {
         "Index": 269,
-        "Name": "Ghoul20",
+        "Name": "尸王20",
         "Image": 74,
         "AI": 0,
         "Effect": 0,
@@ -9306,12 +9038,11 @@
                 "HP": 1700
             },
             "Count": 1838
-        },
-        "GameName": "Ghoul"
+        }
     },
     {
         "Index": 270,
-        "Name": "Ghoul21",
+        "Name": "尸王21",
         "Image": 74,
         "AI": 0,
         "Effect": 0,
@@ -9342,12 +9073,11 @@
                 "HP": 1700
             },
             "Count": 1838
-        },
-        "GameName": "Ghoul"
+        }
     },
     {
         "Index": 271,
-        "Name": "ZumaArcher20",
+        "Name": "祖玛弓箭手20",
         "Image": 64,
         "AI": 8,
         "Effect": 0,
@@ -9378,12 +9108,11 @@
                 "HP": 1900
             },
             "Count": 2059
-        },
-        "GameName": "ZumaArcher"
+        }
     },
     {
         "Index": 272,
-        "Name": "ZumaArcher21",
+        "Name": "祖玛弓箭手21",
         "Image": 64,
         "AI": 8,
         "Effect": 0,
@@ -9410,12 +9139,11 @@
                 "HP": 2500
             },
             "Count": 2613
-        },
-        "GameName": "ZumaArcher"
+        }
     },
     {
         "Index": 273,
-        "Name": "ZumaStatue20",
+        "Name": "祖玛雕像20",
         "Image": 65,
         "AI": 15,
         "Effect": 0,
@@ -9446,12 +9174,11 @@
                 "HP": 2000
             },
             "Count": 2152
-        },
-        "GameName": "ZumaStatue"
+        }
     },
     {
         "Index": 274,
-        "Name": "ZumaStatue21",
+        "Name": "祖玛雕像21",
         "Image": 65,
         "AI": 15,
         "Effect": 0,
@@ -9482,12 +9209,11 @@
                 "HP": 3000
             },
             "Count": 3172
-        },
-        "GameName": "ZumaStatue"
+        }
     },
     {
         "Index": 275,
-        "Name": "ZumaGuardian20",
+        "Name": "祖玛卫士20",
         "Image": 66,
         "AI": 15,
         "Effect": 0,
@@ -9518,12 +9244,11 @@
                 "HP": 2500
             },
             "Count": 2658
-        },
-        "GameName": "ZumaGuardian"
+        }
     },
     {
         "Index": 276,
-        "Name": "ZumaGuardian21",
+        "Name": "祖玛卫士21",
         "Image": 66,
         "AI": 15,
         "Effect": 0,
@@ -9554,12 +9279,11 @@
                 "HP": 3500
             },
             "Count": 3678
-        },
-        "GameName": "ZumaGuardian"
+        }
     },
     {
         "Index": 277,
-        "Name": "WhiteBoar20",
+        "Name": "白野猪20",
         "Image": 48,
         "AI": 0,
         "Effect": 0,
@@ -9590,12 +9314,11 @@
                 "HP": 1700
             },
             "Count": 1838
-        },
-        "GameName": "WhiteBoar"
+        }
     },
     {
         "Index": 278,
-        "Name": "WhiteBoar21",
+        "Name": "白野猪21",
         "Image": 48,
         "AI": 0,
         "Effect": 0,
@@ -9626,12 +9349,11 @@
                 "HP": 3000
             },
             "Count": 3177
-        },
-        "GameName": "WhiteBoar"
+        }
     },
     {
         "Index": 279,
-        "Name": "WoomaGuardian5",
+        "Name": "沃玛卫士5",
         "Image": 33,
         "AI": 0,
         "Effect": 0,
@@ -9662,12 +9384,11 @@
                 "HP": 1700
             },
             "Count": 1838
-        },
-        "GameName": "WoomaGuardian"
+        }
     },
     {
         "Index": 280,
-        "Name": "WoomaGuardian6",
+        "Name": "沃玛卫士6",
         "Image": 33,
         "AI": 0,
         "Effect": 0,
@@ -9698,12 +9419,11 @@
                 "HP": 2000
             },
             "Count": 2183
-        },
-        "GameName": "WoomaGuardian"
+        }
     },
     {
         "Index": 281,
-        "Name": "KingScorpion",
+        "Name": "虹魔蝎卫",
         "Image": 75,
         "AI": 19,
         "Effect": 0,
@@ -9736,12 +9456,11 @@
                 "HP": 5000
             },
             "Count": 5360
-        },
-        "GameName": "KingScorpion"
+        }
     },
     {
         "Index": 282,
-        "Name": "KingHog",
+        "Name": "虹魔猪卫",
         "Image": 76,
         "AI": 0,
         "Effect": 0,
@@ -9772,12 +9491,11 @@
                 "HP": 8000
             },
             "Count": 8275
-        },
-        "GameName": "KingHog"
+        }
     },
     {
         "Index": 283,
-        "Name": "IncarnatedWT",
+        "Name": "魔化沃玛教主",
         "Image": 34,
         "AI": 11,
         "Effect": 0,
@@ -9808,12 +9526,11 @@
                 "HP": 6000
             },
             "Count": 6290
-        },
-        "GameName": "IncarnatedWT"
+        }
     },
     {
         "Index": 284,
-        "Name": "IncarnatedZT",
+        "Name": "魔化祖玛教主",
         "Image": 68,
         "AI": 22,
         "Effect": 0,
@@ -9844,12 +9561,11 @@
                 "HP": 10000
             },
             "Count": 10245
-        },
-        "GameName": "IncarnatedZT"
+        }
     },
     {
         "Index": 285,
-        "Name": "DarkDevil",
+        "Name": "黑暗魔王",
         "Image": 77,
         "AI": 20,
         "Effect": 0,
@@ -9880,12 +9596,11 @@
                 "HP": 30000
             },
             "Count": 30353
-        },
-        "GameName": "DarkDevil"
+        }
     },
     {
         "Index": 286,
-        "Name": "BloodPriest",
+        "Name": "血之僵尸",
         "Image": 69,
         "AI": 24,
         "Effect": 0,
@@ -9916,12 +9631,11 @@
                 "HP": 205
             },
             "Count": 305
-        },
-        "GameName": "BloodPriest"
+        }
     },
     {
         "Index": 287,
-        "Name": "BloodPriest0",
+        "Name": "血之僵尸0",
         "Image": 69,
         "AI": 24,
         "Effect": 0,
@@ -9952,12 +9666,11 @@
                 "HP": 205
             },
             "Count": 305
-        },
-        "GameName": "BloodPriest"
+        }
     },
     {
         "Index": 288,
-        "Name": "CursedShaman",
+        "Name": "被诅咒的萨满",
         "Image": 73,
         "AI": 26,
         "Effect": 0,
@@ -9988,12 +9701,11 @@
                 "HP": 205
             },
             "Count": 285
-        },
-        "GameName": "CursedShaman"
+        }
     },
     {
         "Index": 289,
-        "Name": "CursedShaman0",
+        "Name": "被诅咒的萨满0",
         "Image": 73,
         "AI": 26,
         "Effect": 0,
@@ -10024,12 +9736,11 @@
                 "HP": 205
             },
             "Count": 285
-        },
-        "GameName": "CursedShaman"
+        }
     },
     {
         "Index": 290,
-        "Name": "CursedPriest",
+        "Name": "被诅咒的神父",
         "Image": 69,
         "AI": 24,
         "Effect": 0,
@@ -10060,12 +9771,11 @@
                 "HP": 205
             },
             "Count": 275
-        },
-        "GameName": "CursedPriest"
+        }
     },
     {
         "Index": 291,
-        "Name": "CursedPriest0",
+        "Name": "被诅咒的神父0",
         "Image": 69,
         "AI": 24,
         "Effect": 0,
@@ -10096,12 +9806,11 @@
                 "HP": 205
             },
             "Count": 275
-        },
-        "GameName": "CursedPriest"
+        }
     },
     {
         "Index": 292,
-        "Name": "CursedZombie",
+        "Name": "被诅咒的僵尸",
         "Image": 70,
         "AI": 0,
         "Effect": 0,
@@ -10132,12 +9841,11 @@
                 "HP": 205
             },
             "Count": 285
-        },
-        "GameName": "CursedZombie"
+        }
     },
     {
         "Index": 293,
-        "Name": "CursedZombie0",
+        "Name": "被诅咒的僵尸0",
         "Image": 70,
         "AI": 0,
         "Effect": 0,
@@ -10168,12 +9876,11 @@
                 "HP": 205
             },
             "Count": 285
-        },
-        "GameName": "CursedZombie"
+        }
     },
     {
         "Index": 294,
-        "Name": "HungryZombie",
+        "Name": "游荡恶鬼",
         "Image": 71,
         "AI": 0,
         "Effect": 0,
@@ -10204,12 +9911,11 @@
                 "HP": 205
             },
             "Count": 285
-        },
-        "GameName": "HungryZombie"
+        }
     },
     {
         "Index": 295,
-        "Name": "HungryZombie0",
+        "Name": "游荡恶鬼0",
         "Image": 71,
         "AI": 0,
         "Effect": 0,
@@ -10240,12 +9946,11 @@
                 "HP": 205
             },
             "Count": 285
-        },
-        "GameName": "HungryZombie"
+        }
     },
     {
         "Index": 296,
-        "Name": "ShiZombie",
+        "Name": "石化僵尸",
         "Image": 70,
         "AI": 0,
         "Effect": 0,
@@ -10276,12 +9981,11 @@
                 "HP": 230
             },
             "Count": 310
-        },
-        "GameName": "ShiZombie"
+        }
     },
     {
         "Index": 297,
-        "Name": "ShiZombie0",
+        "Name": "石化僵尸0",
         "Image": 70,
         "AI": 0,
         "Effect": 0,
@@ -10312,12 +10016,11 @@
                 "HP": 230
             },
             "Count": 310
-        },
-        "GameName": "ShiZombie"
+        }
     },
     {
         "Index": 298,
-        "Name": "ToxicZombie",
+        "Name": "剧毒僵尸",
         "Image": 71,
         "AI": 0,
         "Effect": 0,
@@ -10348,12 +10051,11 @@
                 "HP": 250
             },
             "Count": 343
-        },
-        "GameName": "ToxicZombie"
+        }
     },
     {
         "Index": 299,
-        "Name": "ToxicZombie0",
+        "Name": "剧毒僵尸0",
         "Image": 71,
         "AI": 0,
         "Effect": 0,
@@ -10384,12 +10086,11 @@
                 "HP": 250
             },
             "Count": 343
-        },
-        "GameName": "ToxicZombie"
+        }
     },
     {
         "Index": 300,
-        "Name": "GreatGhoul",
+        "Name": "巨型尸王",
         "Image": 74,
         "AI": 0,
         "Effect": 0,
@@ -10420,12 +10121,11 @@
                 "HP": 600
             },
             "Count": 700
-        },
-        "GameName": "GreatGhoul"
+        }
     },
     {
         "Index": 301,
-        "Name": "BombSpider",
+        "Name": "爆蛛",
         "Image": 50,
         "AI": 40,
         "Effect": 0,
@@ -10452,12 +10152,11 @@
                 "HP": 10
             },
             "Count": 130
-        },
-        "GameName": "BombSpider"
+        }
     },
     {
         "Index": 302,
-        "Name": "RootSpider",
+        "Name": "幻影蜘蛛",
         "Image": 51,
         "AI": 39,
         "Effect": 0,
@@ -10486,12 +10185,11 @@
                 "HP": 210
             },
             "Count": 277
-        },
-        "GameName": "RootSpider"
+        }
     },
     {
         "Index": 303,
-        "Name": "SpiderBat",
+        "Name": "月魔蜘蛛",
         "Image": 52,
         "AI": 7,
         "Effect": 0,
@@ -10522,12 +10220,11 @@
                 "HP": 300
             },
             "Count": 391
-        },
-        "GameName": "SpiderBat"
+        }
     },
     {
         "Index": 304,
-        "Name": "VenomSpider",
+        "Name": "天狼蜘蛛",
         "Image": 53,
         "AI": 4,
         "Effect": 0,
@@ -10558,12 +10255,11 @@
                 "HP": 300
             },
             "Count": 398
-        },
-        "GameName": "VenomSpider"
+        }
     },
     {
         "Index": 305,
-        "Name": "VenomSpider0",
+        "Name": "天狼蜘蛛0",
         "Image": 53,
         "AI": 4,
         "Effect": 0,
@@ -10594,12 +10290,11 @@
                 "HP": 300
             },
             "Count": 402
-        },
-        "GameName": "VenomSpider"
+        }
     },
     {
         "Index": 306,
-        "Name": "VenomSpider3",
+        "Name": "天狼蜘蛛3",
         "Image": 53,
         "AI": 4,
         "Effect": 0,
@@ -10630,12 +10325,11 @@
                 "HP": 300
             },
             "Count": 434
-        },
-        "GameName": "VenomSpider"
+        }
     },
     {
         "Index": 307,
-        "Name": "GangSpider",
+        "Name": "钢牙蜘蛛",
         "Image": 54,
         "AI": 0,
         "Effect": 0,
@@ -10666,12 +10360,11 @@
                 "HP": 300
             },
             "Count": 399
-        },
-        "GameName": "GangSpider"
+        }
     },
     {
         "Index": 308,
-        "Name": "GangSpider0",
+        "Name": "钢牙蜘蛛0",
         "Image": 54,
         "AI": 0,
         "Effect": 0,
@@ -10702,12 +10395,11 @@
                 "HP": 300
             },
             "Count": 401
-        },
-        "GameName": "GangSpider"
+        }
     },
     {
         "Index": 309,
-        "Name": "GangSpider3",
+        "Name": "钢牙蜘蛛3",
         "Image": 54,
         "AI": 0,
         "Effect": 0,
@@ -10738,12 +10430,11 @@
                 "HP": 300
             },
             "Count": 402
-        },
-        "GameName": "GangSpider"
+        }
     },
     {
         "Index": 310,
-        "Name": "GreatSpider",
+        "Name": "黑锷蜘蛛",
         "Image": 55,
         "AI": 0,
         "Effect": 0,
@@ -10774,12 +10465,11 @@
                 "HP": 400
             },
             "Count": 499
-        },
-        "GameName": "GreatSpider"
+        }
     },
     {
         "Index": 311,
-        "Name": "GreatSpider0",
+        "Name": "黑锷蜘蛛0",
         "Image": 55,
         "AI": 0,
         "Effect": 0,
@@ -10810,12 +10500,11 @@
                 "HP": 400
             },
             "Count": 499
-        },
-        "GameName": "GreatSpider"
+        }
     },
     {
         "Index": 312,
-        "Name": "GreatSpider3",
+        "Name": "黑锷蜘蛛3",
         "Image": 55,
         "AI": 0,
         "Effect": 0,
@@ -10846,12 +10535,11 @@
                 "HP": 400
             },
             "Count": 503
-        },
-        "GameName": "GreatSpider"
+        }
     },
     {
         "Index": 313,
-        "Name": "LureSpider",
+        "Name": "花吻蜘蛛",
         "Image": 56,
         "AI": 4,
         "Effect": 0,
@@ -10882,12 +10570,11 @@
                 "HP": 300
             },
             "Count": 428
-        },
-        "GameName": "LureSpider"
+        }
     },
     {
         "Index": 314,
-        "Name": "LureSpider0",
+        "Name": "花吻蜘蛛0",
         "Image": 56,
         "AI": 4,
         "Effect": 0,
@@ -10918,12 +10605,11 @@
                 "HP": 300
             },
             "Count": 428
-        },
-        "GameName": "LureSpider"
+        }
     },
     {
         "Index": 315,
-        "Name": "LureSpider3",
+        "Name": "花吻蜘蛛3",
         "Image": 56,
         "AI": 4,
         "Effect": 0,
@@ -10954,12 +10640,11 @@
                 "HP": 300
             },
             "Count": 432
-        },
-        "GameName": "LureSpider"
+        }
     },
     {
         "Index": 316,
-        "Name": "BigApe",
+        "Name": "血巨人",
         "Image": 57,
         "AI": 0,
         "Effect": 0,
@@ -10990,12 +10675,11 @@
                 "HP": 800
             },
             "Count": 910
-        },
-        "GameName": "BigApe"
+        }
     },
     {
         "Index": 317,
-        "Name": "BigApe0",
+        "Name": "血巨人0",
         "Image": 57,
         "AI": 0,
         "Effect": 0,
@@ -11026,12 +10710,11 @@
                 "HP": 800
             },
             "Count": 910
-        },
-        "GameName": "BigApe"
+        }
     },
     {
         "Index": 318,
-        "Name": "BigApe3",
+        "Name": "血巨人3",
         "Image": 57,
         "AI": 0,
         "Effect": 0,
@@ -11062,12 +10745,11 @@
                 "HP": 800
             },
             "Count": 915
-        },
-        "GameName": "BigApe"
+        }
     },
     {
         "Index": 319,
-        "Name": "EvilApe",
+        "Name": "邪恶巨人",
         "Image": 58,
         "AI": 0,
         "Effect": 0,
@@ -11098,12 +10780,11 @@
                 "HP": 1100
             },
             "Count": 1273
-        },
-        "GameName": "EvilApe"
+        }
     },
     {
         "Index": 320,
-        "Name": "EvilApe0",
+        "Name": "邪恶巨人0",
         "Image": 58,
         "AI": 0,
         "Effect": 0,
@@ -11134,12 +10815,11 @@
                 "HP": 900
             },
             "Count": 1073
-        },
-        "GameName": "EvilApe"
+        }
     },
     {
         "Index": 321,
-        "Name": "GreyEvilApe",
+        "Name": "绿巨人",
         "Image": 59,
         "AI": 0,
         "Effect": 0,
@@ -11168,12 +10848,11 @@
                 "HP": 1300
             },
             "Count": 1457
-        },
-        "GameName": "GreyEvilApe"
+        }
     },
     {
         "Index": 322,
-        "Name": "RedEvilApe",
+        "Name": "红巨人",
         "Image": 60,
         "AI": 0,
         "Effect": 0,
@@ -11202,12 +10881,11 @@
                 "HP": 1300
             },
             "Count": 1477
-        },
-        "GameName": "RedEvilApe"
+        }
     },
     {
         "Index": 323,
-        "Name": "CrystalSpider",
+        "Name": "水晶蜘蛛",
         "Image": 61,
         "AI": 37,
         "Effect": 0,
@@ -11240,12 +10918,11 @@
                 "HP": 2000
             },
             "Count": 2281
-        },
-        "GameName": "CrystalSpider"
+        }
     },
     {
         "Index": 324,
-        "Name": "RedMoonEvil",
+        "Name": "赤月恶魔",
         "Image": 62,
         "AI": 13,
         "Effect": 0,
@@ -11276,12 +10953,11 @@
                 "HP": 5000
             },
             "Count": 5243
-        },
-        "GameName": "RedMoonEvil"
+        }
     },
     {
         "Index": 325,
-        "Name": "RedMoonEvil1",
+        "Name": "赤月恶魔1",
         "Image": 62,
         "AI": 13,
         "Effect": 0,
@@ -11312,12 +10988,11 @@
                 "HP": 5000
             },
             "Count": 5245
-        },
-        "GameName": "RedMoonEvil"
+        }
     },
     {
         "Index": 326,
-        "Name": "EvilApeSobo",
+        "Name": "邪恶巨人王",
         "Image": 58,
         "AI": 0,
         "Effect": 0,
@@ -11348,12 +11023,11 @@
                 "HP": 800
             },
             "Count": 910
-        },
-        "GameName": "EvilApeSobo"
+        }
     },
     {
         "Index": 327,
-        "Name": "EvilBigApe",
+        "Name": "邪恶血巨人",
         "Image": 58,
         "AI": 0,
         "Effect": 0,
@@ -11384,12 +11058,11 @@
                 "HP": 900
             },
             "Count": 1043
-        },
-        "GameName": "EvilBigApe"
+        }
     },
     {
         "Index": 328,
-        "Name": "ValeBat",
+        "Name": "太阴月魔",
         "Image": 203,
         "AI": 0,
         "Effect": 0,
@@ -11422,12 +11095,11 @@
                 "HP": 1270
             },
             "Count": 1614
-        },
-        "GameName": "ValeBat"
+        }
     },
     {
         "Index": 329,
-        "Name": "ValeBat2",
+        "Name": "太阴月魔2",
         "Image": 203,
         "AI": 0,
         "Effect": 0,
@@ -11460,12 +11132,11 @@
                 "HP": 1270
             },
             "Count": 1614
-        },
-        "GameName": "ValeBat"
+        }
     },
     {
         "Index": 330,
-        "Name": "Weaver",
+        "Name": "蓝背蜘蛛",
         "Image": 204,
         "AI": 0,
         "Effect": 0,
@@ -11498,12 +11169,11 @@
                 "HP": 1200
             },
             "Count": 1454
-        },
-        "GameName": "Weaver"
+        }
     },
     {
         "Index": 331,
-        "Name": "VenomWeaver",
+        "Name": "剧毒蓝背蛛",
         "Image": 205,
         "AI": 0,
         "Effect": 0,
@@ -11536,12 +11206,11 @@
                 "HP": 1100
             },
             "Count": 1350
-        },
-        "GameName": "VenomWeaver"
+        }
     },
     {
         "Index": 332,
-        "Name": "CrackingWeaver",
+        "Name": "太阴黑锷蛛",
         "Image": 206,
         "AI": 0,
         "Effect": 0,
@@ -11574,12 +11243,11 @@
                 "HP": 1000
             },
             "Count": 1246
-        },
-        "GameName": "CrackingWeaver"
+        }
     },
     {
         "Index": 333,
-        "Name": "ArmingWeaver",
+        "Name": "太阴花吻蛛",
         "Image": 207,
         "AI": 0,
         "Effect": 0,
@@ -11612,12 +11280,11 @@
                 "HP": 1050
             },
             "Count": 1288
-        },
-        "GameName": "ArmingWeaver"
+        }
     },
     {
         "Index": 334,
-        "Name": "CrystalWeaver",
+        "Name": "太阴水晶蛛",
         "Image": 208,
         "AI": 0,
         "Effect": 0,
@@ -11650,8 +11317,7 @@
                 "HP": 1150
             },
             "Count": 1392
-        },
-        "GameName": "CrystalWeaver"
+        }
     },
     {
         "Index": 335,
@@ -11688,12 +11354,11 @@
                 "HP": 1100
             },
             "Count": 1436
-        },
-        "GameName": "GreaterWeaver"
+        }
     },
     {
         "Index": 336,
-        "Name": "SpiderWarrior",
+        "Name": "巨镰蜘蛛",
         "Image": 213,
         "AI": 0,
         "Effect": 0,
@@ -11726,12 +11391,11 @@
                 "HP": 1000
             },
             "Count": 1344
-        },
-        "GameName": "SpiderWarrior"
+        }
     },
     {
         "Index": 337,
-        "Name": "SpiderBarbarian",
+        "Name": "金杖蜘蛛",
         "Image": 214,
         "AI": 0,
         "Effect": 0,
@@ -11764,12 +11428,11 @@
                 "HP": 1500
             },
             "Count": 1880
-        },
-        "GameName": "SpiderBarbarian"
+        }
     },
     {
         "Index": 339,
-        "Name": "FlyingStatue",
+        "Name": "鸟人像",
         "Image": 202,
         "AI": 0,
         "Effect": 0,
@@ -11802,12 +11465,11 @@
                 "HP": 26000
             },
             "Count": 26795
-        },
-        "GameName": "FlyingStatue"
+        }
     },
     {
         "Index": 340,
-        "Name": "StoningStatue",
+        "Name": "石魔鬼尊",
         "Image": 201,
         "AI": 0,
         "Effect": 0,
@@ -11840,12 +11502,11 @@
                 "HP": 30000
             },
             "Count": 30830
-        },
-        "GameName": "StoningStatue"
+        }
     },
     {
         "Index": 341,
-        "Name": "ToxicGhoul",
+        "Name": "恶灵尸王",
         "Image": 88,
         "AI": 28,
         "Effect": 0,
@@ -11876,12 +11537,11 @@
                 "HP": 350
             },
             "Count": 458
-        },
-        "GameName": "ToxicGhoul"
+        }
     },
     {
         "Index": 342,
-        "Name": "ToxicGhoul0",
+        "Name": "恶灵尸王0",
         "Image": 88,
         "AI": 28,
         "Effect": 0,
@@ -11912,12 +11572,11 @@
                 "HP": 350
             },
             "Count": 458
-        },
-        "GameName": "ToxicGhoul"
+        }
     },
     {
         "Index": 343,
-        "Name": "RoninGhoul",
+        "Name": "恶灵僵尸",
         "Image": 87,
         "AI": 0,
         "Effect": 0,
@@ -11948,12 +11607,11 @@
                 "HP": 430
             },
             "Count": 544
-        },
-        "GameName": "RoninGhoul"
+        }
     },
     {
         "Index": 344,
-        "Name": "RoninGhoul0",
+        "Name": "恶灵僵尸0",
         "Image": 87,
         "AI": 0,
         "Effect": 0,
@@ -11984,12 +11642,11 @@
                 "HP": 430
             },
             "Count": 544
-        },
-        "GameName": "RoninGhoul"
+        }
     },
     {
         "Index": 345,
-        "Name": "BoneArcher",
+        "Name": "骷髅弓箭手",
         "Image": 92,
         "AI": 8,
         "Effect": 0,
@@ -12020,12 +11677,11 @@
                 "HP": 450
             },
             "Count": 540
-        },
-        "GameName": "BoneArcher"
+        }
     },
     {
         "Index": 346,
-        "Name": "BoneArcher0",
+        "Name": "骷髅弓箭手0",
         "Image": 92,
         "AI": 8,
         "Effect": 0,
@@ -12056,12 +11712,11 @@
                 "HP": 450
             },
             "Count": 540
-        },
-        "GameName": "BoneArcher"
+        }
     },
     {
         "Index": 347,
-        "Name": "BoneBlademan",
+        "Name": "骷髅刀斧手",
         "Image": 91,
         "AI": 0,
         "Effect": 0,
@@ -12092,12 +11747,11 @@
                 "HP": 540
             },
             "Count": 661
-        },
-        "GameName": "BoneBlademan"
+        }
     },
     {
         "Index": 348,
-        "Name": "BoneBlademan0",
+        "Name": "骷髅刀斧手0",
         "Image": 91,
         "AI": 0,
         "Effect": 0,
@@ -12128,12 +11782,11 @@
                 "HP": 540
             },
             "Count": 661
-        },
-        "GameName": "BoneBlademan"
+        }
     },
     {
         "Index": 349,
-        "Name": "BoneSpearman",
+        "Name": "骷髅长枪兵",
         "Image": 90,
         "AI": 29,
         "Effect": 0,
@@ -12164,12 +11817,11 @@
                 "HP": 520
             },
             "Count": 639
-        },
-        "GameName": "BoneSpearman"
+        }
     },
     {
         "Index": 350,
-        "Name": "BoneSpearman0",
+        "Name": "骷髅长枪兵0",
         "Image": 90,
         "AI": 29,
         "Effect": 0,
@@ -12200,12 +11852,11 @@
                 "HP": 520
             },
             "Count": 639
-        },
-        "GameName": "BoneSpearman"
+        }
     },
     {
         "Index": 351,
-        "Name": "BoneCaptain",
+        "Name": "骷髅锤兵",
         "Image": 89,
         "AI": 0,
         "Effect": 0,
@@ -12236,12 +11887,11 @@
                 "HP": 620
             },
             "Count": 752
-        },
-        "GameName": "BoneCaptain"
+        }
     },
     {
         "Index": 352,
-        "Name": "BoneCaptain0",
+        "Name": "骷髅锤兵0",
         "Image": 89,
         "AI": 0,
         "Effect": 0,
@@ -12272,12 +11922,11 @@
                 "HP": 620
             },
             "Count": 752
-        },
-        "GameName": "BoneCaptain"
+        }
     },
     {
         "Index": 353,
-        "Name": "BoneLord",
+        "Name": "骸骨盘王",
         "Image": 93,
         "AI": 30,
         "Effect": 0,
@@ -12308,12 +11957,11 @@
                 "HP": 10000
             },
             "Count": 10292
-        },
-        "GameName": "BoneLord"
+        }
     },
     {
         "Index": 354,
-        "Name": "Ancient_ToxicGhoul",
+        "Name": "远古恶灵尸王",
         "Image": 88,
         "AI": 28,
         "Effect": 0,
@@ -12344,12 +11992,11 @@
                 "HP": 1500
             },
             "Count": 1614
-        },
-        "GameName": "Ancient_ToxicGhoul"
+        }
     },
     {
         "Index": 355,
-        "Name": "Ancient_RoninGhoul",
+        "Name": "远古恶灵僵尸",
         "Image": 87,
         "AI": 0,
         "Effect": 0,
@@ -12380,12 +12027,11 @@
                 "HP": 1500
             },
             "Count": 1620
-        },
-        "GameName": "Ancient_RoninGhoul"
+        }
     },
     {
         "Index": 356,
-        "Name": "Ancient_BoneArcher",
+        "Name": "远古骷髅弓箭手",
         "Image": 92,
         "AI": 8,
         "Effect": 0,
@@ -12416,12 +12062,11 @@
                 "HP": 1500
             },
             "Count": 1608
-        },
-        "GameName": "Ancient_BoneArcher"
+        }
     },
     {
         "Index": 357,
-        "Name": "Ancient_BoneBlademan",
+        "Name": "远古骷髅刀斧手",
         "Image": 91,
         "AI": 0,
         "Effect": 0,
@@ -12452,12 +12097,11 @@
                 "HP": 1500
             },
             "Count": 1627
-        },
-        "GameName": "Ancient_BoneBlademan"
+        }
     },
     {
         "Index": 358,
-        "Name": "Ancient_BoneSpearman",
+        "Name": "远古骷髅长枪兵",
         "Image": 90,
         "AI": 29,
         "Effect": 0,
@@ -12488,12 +12132,11 @@
                 "HP": 1500
             },
             "Count": 1625
-        },
-        "GameName": "Ancient_BoneSpearman"
+        }
     },
     {
         "Index": 359,
-        "Name": "Ancient_BoneCaptain",
+        "Name": "远古骷髅锤兵",
         "Image": 89,
         "AI": 0,
         "Effect": 0,
@@ -12524,12 +12167,11 @@
                 "HP": 1500
             },
             "Count": 1638
-        },
-        "GameName": "Ancient_BoneCaptain"
+        }
     },
     {
         "Index": 360,
-        "Name": "Ancient_BoneLord",
+        "Name": "远古骸骨盘王",
         "Image": 93,
         "AI": 30,
         "Effect": 0,
@@ -12560,12 +12202,11 @@
                 "HP": 10000
             },
             "Count": 10298
-        },
-        "GameName": "Ancient_BoneLord"
+        }
     },
     {
         "Index": 361,
-        "Name": "Minotaur",
+        "Name": "牛头魔",
         "Image": 94,
         "AI": 0,
         "Effect": 0,
@@ -12596,12 +12237,11 @@
                 "HP": 500
             },
             "Count": 627
-        },
-        "GameName": "Minotaur"
+        }
     },
     {
         "Index": 362,
-        "Name": "Minotaur0",
+        "Name": "牛头魔0",
         "Image": 94,
         "AI": 0,
         "Effect": 0,
@@ -12632,12 +12272,11 @@
                 "HP": 500
             },
             "Count": 627
-        },
-        "GameName": "Minotaur"
+        }
     },
     {
         "Index": 363,
-        "Name": "IceMinotaur",
+        "Name": "冰牛魔",
         "Image": 95,
         "AI": 0,
         "Effect": 0,
@@ -12668,12 +12307,11 @@
                 "HP": 630
             },
             "Count": 769
-        },
-        "GameName": "IceMinotaur"
+        }
     },
     {
         "Index": 364,
-        "Name": "IceMinotaur0",
+        "Name": "冰牛魔0",
         "Image": 95,
         "AI": 0,
         "Effect": 0,
@@ -12704,12 +12342,11 @@
                 "HP": 630
             },
             "Count": 769
-        },
-        "GameName": "IceMinotaur"
+        }
     },
     {
         "Index": 365,
-        "Name": "ElectricMinotaur",
+        "Name": "电光牛魔",
         "Image": 96,
         "AI": 0,
         "Effect": 0,
@@ -12740,12 +12377,11 @@
                 "HP": 600
             },
             "Count": 739
-        },
-        "GameName": "ElectricMinotaur"
+        }
     },
     {
         "Index": 366,
-        "Name": "ElectricMinotaur0",
+        "Name": "电光牛魔0",
         "Image": 96,
         "AI": 0,
         "Effect": 0,
@@ -12776,12 +12412,11 @@
                 "HP": 600
             },
             "Count": 739
-        },
-        "GameName": "ElectricMinotaur"
+        }
     },
     {
         "Index": 367,
-        "Name": "WindMinotaur",
+        "Name": "风之牛魔",
         "Image": 97,
         "AI": 0,
         "Effect": 0,
@@ -12812,12 +12447,11 @@
                 "HP": 550
             },
             "Count": 685
-        },
-        "GameName": "WindMinotaur"
+        }
     },
     {
         "Index": 368,
-        "Name": "WindMinotaur0",
+        "Name": "风之牛魔0",
         "Image": 97,
         "AI": 0,
         "Effect": 0,
@@ -12848,12 +12482,11 @@
                 "HP": 550
             },
             "Count": 685
-        },
-        "GameName": "WindMinotaur"
+        }
     },
     {
         "Index": 369,
-        "Name": "FireMinotaur",
+        "Name": "火焰牛魔",
         "Image": 98,
         "AI": 0,
         "Effect": 0,
@@ -12884,12 +12517,11 @@
                 "HP": 500
             },
             "Count": 635
-        },
-        "GameName": "FireMinotaur"
+        }
     },
     {
         "Index": 370,
-        "Name": "FireMinotaur0",
+        "Name": "火焰牛魔0",
         "Image": 98,
         "AI": 0,
         "Effect": 0,
@@ -12920,12 +12552,11 @@
                 "HP": 500
             },
             "Count": 635
-        },
-        "GameName": "FireMinotaur"
+        }
     },
     {
         "Index": 371,
-        "Name": "RightGuard",
+        "Name": "右护法",
         "Image": 99,
         "AI": 31,
         "Effect": 0,
@@ -12956,12 +12587,11 @@
                 "HP": 570
             },
             "Count": 709
-        },
-        "GameName": "RightGuard"
+        }
     },
     {
         "Index": 372,
-        "Name": "RightGuard0",
+        "Name": "右护法0",
         "Image": 99,
         "AI": 31,
         "Effect": 0,
@@ -12992,12 +12622,11 @@
                 "HP": 570
             },
             "Count": 709
-        },
-        "GameName": "RightGuard"
+        }
     },
     {
         "Index": 373,
-        "Name": "LeftGuard",
+        "Name": "左护法",
         "Image": 100,
         "AI": 32,
         "Effect": 0,
@@ -13028,12 +12657,11 @@
                 "HP": 620
             },
             "Count": 764
-        },
-        "GameName": "LeftGuard"
+        }
     },
     {
         "Index": 374,
-        "Name": "LeftGuard0",
+        "Name": "左护法0",
         "Image": 100,
         "AI": 32,
         "Effect": 0,
@@ -13064,12 +12692,11 @@
                 "HP": 620
             },
             "Count": 764
-        },
-        "GameName": "LeftGuard"
+        }
     },
     {
         "Index": 375,
-        "Name": "MinotaurKing",
+        "Name": "邪牛天王",
         "Image": 101,
         "AI": 33,
         "Effect": 0,
@@ -13102,12 +12729,11 @@
                 "HP": 15000
             },
             "Count": 15474
-        },
-        "GameName": "MinotaurKing"
+        }
     },
     {
         "Index": 376,
-        "Name": "AxeOma",
+        "Name": "魔龙刀斧手",
         "Image": 118,
         "AI": 0,
         "Effect": 0,
@@ -13138,12 +12764,11 @@
                 "HP": 1170
             },
             "Count": 1383
-        },
-        "GameName": "AxeOma"
+        }
     },
     {
         "Index": 377,
-        "Name": "AxeOma0",
+        "Name": "魔龙刀斧手0",
         "Image": 118,
         "AI": 0,
         "Effect": 0,
@@ -13174,12 +12799,11 @@
                 "HP": 1170
             },
             "Count": 1383
-        },
-        "GameName": "AxeOma"
+        }
     },
     {
         "Index": 378,
-        "Name": "SwordOma",
+        "Name": "魔龙刀兵",
         "Image": 119,
         "AI": 0,
         "Effect": 0,
@@ -13210,12 +12834,11 @@
                 "HP": 1100
             },
             "Count": 1308
-        },
-        "GameName": "SwordOma"
+        }
     },
     {
         "Index": 379,
-        "Name": "SwordOma0",
+        "Name": "魔龙刀兵0",
         "Image": 119,
         "AI": 0,
         "Effect": 0,
@@ -13246,12 +12869,11 @@
                 "HP": 1100
             },
             "Count": 1308
-        },
-        "GameName": "SwordOma"
+        }
     },
     {
         "Index": 380,
-        "Name": "CrossbowOma",
+        "Name": "魔龙射手",
         "Image": 120,
         "AI": 8,
         "Effect": 0,
@@ -13282,12 +12904,11 @@
                 "HP": 1000
             },
             "Count": 1167
-        },
-        "GameName": "CrossbowOma"
+        }
     },
     {
         "Index": 381,
-        "Name": "CrossbowOma0",
+        "Name": "魔龙射手0",
         "Image": 120,
         "AI": 8,
         "Effect": 0,
@@ -13318,12 +12939,11 @@
                 "HP": 1000
             },
             "Count": 1167
-        },
-        "GameName": "CrossbowOma"
+        }
     },
     {
         "Index": 382,
-        "Name": "WingedOma",
+        "Name": "魔龙巨蛾",
         "Image": 121,
         "AI": 0,
         "Effect": 0,
@@ -13354,12 +12974,11 @@
                 "HP": 1100
             },
             "Count": 1288
-        },
-        "GameName": "WingedOma"
+        }
     },
     {
         "Index": 383,
-        "Name": "WingedOma0",
+        "Name": "魔龙巨蛾0",
         "Image": 121,
         "AI": 0,
         "Effect": 0,
@@ -13390,12 +13009,11 @@
                 "HP": 1100
             },
             "Count": 1288
-        },
-        "GameName": "WingedOma"
+        }
     },
     {
         "Index": 384,
-        "Name": "FlailOma",
+        "Name": "魔龙战将",
         "Image": 122,
         "AI": 0,
         "Effect": 0,
@@ -13426,12 +13044,11 @@
                 "HP": 1440
             },
             "Count": 1684
-        },
-        "GameName": "FlailOma"
+        }
     },
     {
         "Index": 385,
-        "Name": "FlailOma0",
+        "Name": "魔龙战将0",
         "Image": 122,
         "AI": 0,
         "Effect": 0,
@@ -13462,12 +13079,11 @@
                 "HP": 1440
             },
             "Count": 1684
-        },
-        "GameName": "FlailOma"
+        }
     },
     {
         "Index": 386,
-        "Name": "OmaGuard",
+        "Name": "魔龙力士",
         "Image": 123,
         "AI": 0,
         "Effect": 0,
@@ -13498,12 +13114,11 @@
                 "HP": 1350
             },
             "Count": 1602
-        },
-        "GameName": "OmaGuard"
+        }
     },
     {
         "Index": 387,
-        "Name": "OmaGuard0",
+        "Name": "魔龙力士0",
         "Image": 123,
         "AI": 0,
         "Effect": 0,
@@ -13534,12 +13149,11 @@
                 "HP": 1350
             },
             "Count": 1602
-        },
-        "GameName": "OmaGuard"
+        }
     },
     {
         "Index": 388,
-        "Name": "YinDevilNode",
+        "Name": "阴之石碑",
         "Image": 124,
         "AI": 42,
         "Effect": 0,
@@ -13570,12 +13184,11 @@
                 "HP": 9000
             },
             "Count": 9169
-        },
-        "GameName": "YinDevilNode"
+        }
     },
     {
         "Index": 389,
-        "Name": "YangDevilNode",
+        "Name": "阳之石碑",
         "Image": 125,
         "AI": 42,
         "Effect": 0,
@@ -13606,12 +13219,11 @@
                 "HP": 10000
             },
             "Count": 10174
-        },
-        "GameName": "YangDevilNode"
+        }
     },
     {
         "Index": 390,
-        "Name": "OmaKing",
+        "Name": "凰天魔神",
         "Image": 126,
         "AI": 43,
         "Effect": 0,
@@ -13644,12 +13256,11 @@
                 "HP": 20000
             },
             "Count": 20491
-        },
-        "GameName": "OmaKing"
+        }
     },
     {
         "Index": 391,
-        "Name": "OmaKingSpirit",
+        "Name": "凰天魔魂",
         "Image": 126,
         "AI": 0,
         "Effect": 0,
@@ -13680,12 +13291,11 @@
                 "HP": 25000
             },
             "Count": 25400
-        },
-        "GameName": "OmaKingSpirit"
+        }
     },
     {
         "Index": 392,
-        "Name": "EvilMir",
+        "Name": "Evil Mir",
         "Image": 900,
         "AI": 52,
         "Effect": 0,
@@ -13718,8 +13328,7 @@
                 "HP": 65000
             },
             "Count": 65815
-        },
-        "GameName": "EvilMir"
+        }
     },
     {
         "Index": 393,
@@ -13755,8 +13364,7 @@
                 "HP": 65000
             },
             "Count": 65810
-        },
-        "GameName": ""
+        }
     },
     {
         "Index": 394,
@@ -13793,8 +13401,7 @@
                 "HP": 20000
             },
             "Count": 20250
-        },
-        "GameName": "MirStatue"
+        }
     },
     {
         "Index": 395,
@@ -13829,8 +13436,7 @@
                 "HP": 1700
             },
             "Count": 1857
-        },
-        "GameName": "ManectricHammer"
+        }
     },
     {
         "Index": 396,
@@ -13865,8 +13471,7 @@
                 "HP": 1700
             },
             "Count": 1852
-        },
-        "GameName": "ManectricClub"
+        }
     },
     {
         "Index": 397,
@@ -13901,8 +13506,7 @@
                 "HP": 1700
             },
             "Count": 1853
-        },
-        "GameName": "ManectricClaw"
+        }
     },
     {
         "Index": 398,
@@ -13937,8 +13541,7 @@
                 "HP": 1700
             },
             "Count": 1861
-        },
-        "GameName": "ManectricStaff"
+        }
     },
     {
         "Index": 399,
@@ -13973,8 +13576,7 @@
                 "HP": 1700
             },
             "Count": 1855
-        },
-        "GameName": "ManectricSlave"
+        }
     },
     {
         "Index": 400,
@@ -14009,8 +13611,7 @@
                 "HP": 1500
             },
             "Count": 1660
-        },
-        "GameName": "Demon"
+        }
     },
     {
         "Index": 401,
@@ -14045,8 +13646,7 @@
                 "HP": 1500
             },
             "Count": 1655
-        },
-        "GameName": "Demon"
+        }
     },
     {
         "Index": 402,
@@ -14081,8 +13681,7 @@
                 "HP": 1700
             },
             "Count": 1881
-        },
-        "GameName": "ManectricBlest"
+        }
     },
     {
         "Index": 403,
@@ -14117,8 +13716,7 @@
                 "HP": 28000
             },
             "Count": 28497
-        },
-        "GameName": "ManectricKing"
+        }
     },
     {
         "Index": 404,
@@ -14153,8 +13751,7 @@
                 "HP": 6000
             },
             "Count": 6205
-        },
-        "GameName": "FrozenDoor"
+        }
     },
     {
         "Index": 405,
@@ -14189,12 +13786,11 @@
                 "HP": 6000
             },
             "Count": 6210
-        },
-        "GameName": "IcePilar"
+        }
     },
     {
         "Index": 406,
-        "Name": "GhastlyLeecher",
+        "Name": "青白恶鬼",
         "Image": 152,
         "AI": 0,
         "Effect": 0,
@@ -14225,12 +13821,11 @@
                 "HP": 2500
             },
             "Count": 2648
-        },
-        "GameName": "GhastlyLeecher"
+        }
     },
     {
         "Index": 407,
-        "Name": "MutatedManworm",
+        "Name": "嗜血虫魔",
         "Image": 154,
         "AI": 0,
         "Effect": 0,
@@ -14261,12 +13856,11 @@
                 "HP": 1200
             },
             "Count": 1385
-        },
-        "GameName": "MutatedManworm"
+        }
     },
     {
         "Index": 408,
-        "Name": "CrazyManworm",
+        "Name": "疯狂虫魔",
         "Image": 155,
         "AI": 0,
         "Effect": 0,
@@ -14297,12 +13891,11 @@
                 "HP": 1325
             },
             "Count": 1517
-        },
-        "GameName": "CrazyManworm"
+        }
     },
     {
         "Index": 409,
-        "Name": "CyanoGhast",
+        "Name": "靛蓝恶鬼",
         "Image": 153,
         "AI": 0,
         "Effect": 0,
@@ -14333,12 +13926,11 @@
                 "HP": 1225
             },
             "Count": 1388
-        },
-        "GameName": "CyanoGhast"
+        }
     },
     {
         "Index": 410,
-        "Name": "DreamDevourer",
+        "Name": "梦魇",
         "Image": 163,
         "AI": 0,
         "Effect": 0,
@@ -14369,12 +13961,11 @@
                 "HP": 1375
             },
             "Count": 1755
-        },
-        "GameName": "DreamDevourer"
+        }
     },
     {
         "Index": 411,
-        "Name": "DarkDevourer",
+        "Name": "怨恶",
         "Image": 159,
         "AI": 0,
         "Effect": 0,
@@ -14405,8 +13996,7 @@
                 "HP": 1375
             },
             "Count": 1755
-        },
-        "GameName": "DarkDevourer"
+        }
     },
     {
         "Index": 412,
@@ -14441,8 +14031,7 @@
                 "HP": 990
             },
             "Count": 1124
-        },
-        "GameName": "HellSlasher"
+        }
     },
     {
         "Index": 413,
@@ -14477,8 +14066,7 @@
                 "HP": 980
             },
             "Count": 1115
-        },
-        "GameName": "HellPirate"
+        }
     },
     {
         "Index": 414,
@@ -14513,8 +14101,7 @@
                 "HP": 980
             },
             "Count": 1121
-        },
-        "GameName": "HellCannibal"
+        }
     },
     {
         "Index": 415,
@@ -14549,8 +14136,7 @@
                 "HP": 990
             },
             "Count": 1124
-        },
-        "GameName": "HellBolt"
+        }
     },
     {
         "Index": 416,
@@ -14585,8 +14171,7 @@
                 "HP": 990
             },
             "Count": 1125
-        },
-        "GameName": "WitchDoctor"
+        }
     },
     {
         "Index": 417,
@@ -14621,8 +14206,7 @@
                 "HP": 24000
             },
             "Count": 24434
-        },
-        "GameName": "CaveWitch"
+        }
     },
     {
         "Index": 418,
@@ -14657,12 +14241,11 @@
                 "HP": 18000
             },
             "Count": 18241
-        },
-        "GameName": "HellKeeper"
+        }
     },
     {
         "Index": 419,
-        "Name": "MubZombie",
+        "Name": "泥僵尸",
         "Image": 263,
         "AI": 0,
         "Effect": 0,
@@ -14693,12 +14276,11 @@
                 "HP": 1300
             },
             "Count": 1527
-        },
-        "GameName": "MubZombie"
+        }
     },
     {
         "Index": 420,
-        "Name": "FrozenZombie",
+        "Name": "冰僵尸",
         "Image": 264,
         "AI": 0,
         "Effect": 0,
@@ -14729,12 +14311,11 @@
                 "HP": 1100
             },
             "Count": 1320
-        },
-        "GameName": "FrozenZombie"
+        }
     },
     {
         "Index": 421,
-        "Name": "DemonWolf",
+        "Name": "恶魔之狼",
         "Image": 266,
         "AI": 0,
         "Effect": 0,
@@ -14765,12 +14346,11 @@
                 "HP": 1400
             },
             "Count": 1639
-        },
-        "GameName": "DemonWolf"
+        }
     },
     {
         "Index": 422,
-        "Name": "UndeadWolf",
+        "Name": "不死之狼",
         "Image": 265,
         "AI": 0,
         "Effect": 0,
@@ -14802,12 +14382,11 @@
                 "HP": 1150
             },
             "Count": 1403
-        },
-        "GameName": "UndeadWolf"
+        }
     },
     {
         "Index": 423,
-        "Name": "WhiteMammoth",
+        "Name": "白象",
         "Image": 267,
         "AI": 0,
         "Effect": 0,
@@ -14838,12 +14417,11 @@
                 "HP": 1500
             },
             "Count": 1711
-        },
-        "GameName": "WhiteMammoth"
+        }
     },
     {
         "Index": 424,
-        "Name": "DarkBeast",
+        "Name": "黑豹子",
         "Image": 268,
         "AI": 0,
         "Effect": 0,
@@ -14874,12 +14452,11 @@
                 "HP": 1200
             },
             "Count": 1394
-        },
-        "GameName": "DarkBeast"
+        }
     },
     {
         "Index": 425,
-        "Name": "LightBeast",
+        "Name": "白豹子",
         "Image": 269,
         "AI": 0,
         "Effect": 0,
@@ -14910,12 +14487,11 @@
                 "HP": 1200
             },
             "Count": 1398
-        },
-        "GameName": "LightBeast"
+        }
     },
     {
         "Index": 426,
-        "Name": "BloodBaboon",
+        "Name": "血狒狒",
         "Image": 270,
         "AI": 0,
         "Effect": 0,
@@ -14946,12 +14522,11 @@
                 "HP": 1200
             },
             "Count": 1407
-        },
-        "GameName": "BloodBaboon"
+        }
     },
     {
         "Index": 427,
-        "Name": "HardenRhino",
+        "Name": "硬皮犀牛",
         "Image": 271,
         "AI": 0,
         "Effect": 0,
@@ -14982,12 +14557,11 @@
                 "HP": 1400
             },
             "Count": 1608
-        },
-        "GameName": "HardenRhino"
+        }
     },
     {
         "Index": 428,
-        "Name": "DeathCrawler",
+        "Name": "爬行亡灵",
         "Image": 261,
         "AI": 0,
         "Effect": 0,
@@ -15018,12 +14592,11 @@
                 "HP": 700
             },
             "Count": 833
-        },
-        "GameName": "DeathCrawler"
+        }
     },
     {
         "Index": 429,
-        "Name": "BurningZombie",
+        "Name": "火僵尸",
         "Image": 262,
         "AI": 0,
         "Effect": 0,
@@ -15054,12 +14627,11 @@
                 "HP": 1150
             },
             "Count": 1380
-        },
-        "GameName": "BurningZombie"
+        }
     },
     {
         "Index": 430,
-        "Name": "AncBringer",
+        "Name": "丹墨",
         "Image": 272,
         "AI": 0,
         "Effect": 0,
@@ -15090,8 +14662,7 @@
                 "HP": 50000
             },
             "Count": 50438
-        },
-        "GameName": "AncBringer"
+        }
     },
     {
         "Index": 431,
@@ -15126,8 +14697,7 @@
                 "HP": 40000
             },
             "Count": 40460
-        },
-        "GameName": "BeastKing"
+        }
     },
     {
         "Index": 432,
@@ -15164,8 +14734,7 @@
                 "HP": 2000
             },
             "Count": 2219
-        },
-        "GameName": "Hydra"
+        }
     },
     {
         "Index": 433,
@@ -15200,8 +14769,7 @@
                 "HP": 1900
             },
             "Count": 2056
-        },
-        "GameName": "SmallDrake"
+        }
     },
     {
         "Index": 434,
@@ -15236,8 +14804,7 @@
                 "HP": 1700
             },
             "Count": 1844
-        },
-        "GameName": "Manticore"
+        }
     },
     {
         "Index": 435,
@@ -15272,8 +14839,7 @@
                 "HP": 2100
             },
             "Count": 2265
-        },
-        "GameName": "KeelWarrior"
+        }
     },
     {
         "Index": 436,
@@ -15309,8 +14875,7 @@
                 "HP": 1500
             },
             "Count": 1656
-        },
-        "GameName": "KeelArcher"
+        }
     },
     {
         "Index": 437,
@@ -15345,8 +14910,7 @@
                 "HP": 1400
             },
             "Count": 1555
-        },
-        "GameName": "SandStorm"
+        }
     },
     {
         "Index": 438,
@@ -15381,8 +14945,7 @@
                 "HP": 48000
             },
             "Count": 48290
-        },
-        "GameName": "Lamia"
+        }
     },
     {
         "Index": 439,
@@ -15417,8 +14980,7 @@
                 "HP": 1700
             },
             "Count": 1855
-        },
-        "GameName": "Slave"
+        }
     },
     {
         "Index": 440,
@@ -15445,8 +15007,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "FineSoul"
+        }
     },
     {
         "Index": 441,
@@ -15473,8 +15034,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "Bear"
+        }
     },
     {
         "Index": 442,
@@ -15509,8 +15069,7 @@
                 "HP": 2000
             },
             "Count": 2256
-        },
-        "GameName": "TurtleGrass"
+        }
     },
     {
         "Index": 443,
@@ -15537,8 +15096,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "Leopard"
+        }
     },
     {
         "Index": 444,
@@ -15565,8 +15123,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "Minion_Warrior"
+        }
     },
     {
         "Index": 445,
@@ -15593,8 +15150,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "Minion_Warlock"
+        }
     },
     {
         "Index": 446,
@@ -15621,8 +15177,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "Minion_Priest"
+        }
     },
     {
         "Index": 447,
@@ -15649,8 +15204,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "Minion_Rouge"
+        }
     },
     {
         "Index": 448,
@@ -15685,8 +15239,7 @@
                 "HP": 2000
             },
             "Count": 2284
-        },
-        "GameName": "Chieftain_Warrior"
+        }
     },
     {
         "Index": 449,
@@ -15719,8 +15272,7 @@
                 "HP": 1850
             },
             "Count": 2090
-        },
-        "GameName": "Chieftain_Warlock"
+        }
     },
     {
         "Index": 450,
@@ -15757,8 +15309,7 @@
                 "HP": 2250
             },
             "Count": 2659
-        },
-        "GameName": "Chieftain_Priest"
+        }
     },
     {
         "Index": 451,
@@ -15793,8 +15344,7 @@
                 "HP": 1850
             },
             "Count": 2139
-        },
-        "GameName": "Chieftain_Rouge"
+        }
     },
     {
         "Index": 452,
@@ -15829,8 +15379,7 @@
                 "HP": 2300
             },
             "Count": 2591
-        },
-        "GameName": "Chieftain_Archer"
+        }
     },
     {
         "Index": 453,
@@ -15869,8 +15418,7 @@
                 "HP": 80000
             },
             "Count": 82390
-        },
-        "GameName": "Master_DragonYang"
+        }
     },
     {
         "Index": 454,
@@ -15905,8 +15453,7 @@
                 "HP": 1000
             },
             "Count": 1175
-        },
-        "GameName": "Jar"
+        }
     },
     {
         "Index": 455,
@@ -15941,8 +15488,7 @@
                 "HP": 1000
             },
             "Count": 1175
-        },
-        "GameName": "Jar"
+        }
     },
     {
         "Index": 456,
@@ -15977,8 +15523,7 @@
                 "HP": 1550
             },
             "Count": 1787
-        },
-        "GameName": "FightingCat"
+        }
     },
     {
         "Index": 457,
@@ -16013,8 +15558,7 @@
                 "HP": 1650
             },
             "Count": 1906
-        },
-        "GameName": "FireCat"
+        }
     },
     {
         "Index": 458,
@@ -16049,8 +15593,7 @@
                 "HP": 1550
             },
             "Count": 1787
-        },
-        "GameName": "CatWidow"
+        }
     },
     {
         "Index": 459,
@@ -16085,8 +15628,7 @@
                 "HP": 1650
             },
             "Count": 1911
-        },
-        "GameName": "StainHammerCat"
+        }
     },
     {
         "Index": 460,
@@ -16121,8 +15663,7 @@
                 "HP": 1550
             },
             "Count": 1811
-        },
-        "GameName": "BlackHammerCat"
+        }
     },
     {
         "Index": 461,
@@ -16157,8 +15698,7 @@
                 "HP": 1250
             },
             "Count": 1490
-        },
-        "GameName": "StrayCat"
+        }
     },
     {
         "Index": 462,
@@ -16193,8 +15733,7 @@
                 "HP": 1550
             },
             "Count": 1787
-        },
-        "GameName": "CatShaman"
+        }
     },
     {
         "Index": 463,
@@ -16233,8 +15772,7 @@
                 "HP": 20000
             },
             "Count": 21219
-        },
-        "GameName": "SeedingsGeneral"
+        }
     },
     {
         "Index": 464,
@@ -16269,12 +15807,11 @@
                 "HP": 1300
             },
             "Count": 1479
-        },
-        "GameName": "RestlessJar"
+        }
     },
     {
         "Index": 465,
-        "Name": "GeneralMeowMeow",
+        "Name": "GeneralJinmYo",
         "Image": 284,
         "AI": 123,
         "Effect": 0,
@@ -16307,8 +15844,7 @@
                 "HP": 40000
             },
             "Count": 41106
-        },
-        "GameName": "GeneralMeowMeow"
+        }
     },
     {
         "Index": 466,
@@ -16335,8 +15871,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "TucsonEgg"
+        }
     },
     {
         "Index": 467,
@@ -16363,8 +15898,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "YoungTucson"
+        }
     },
     {
         "Index": 468,
@@ -16401,8 +15935,7 @@
                 "HP": 1450
             },
             "Count": 1721
-        },
-        "GameName": "Armadillo"
+        }
     },
     {
         "Index": 469,
@@ -16439,8 +15972,7 @@
                 "HP": 1740
             },
             "Count": 2029
-        },
-        "GameName": "ArmadilloElder"
+        }
     },
     {
         "Index": 470,
@@ -16477,8 +16009,7 @@
                 "HP": 1650
             },
             "Count": 1884
-        },
-        "GameName": "VisceralWorm"
+        }
     },
     {
         "Index": 471,
@@ -16515,8 +16046,7 @@
                 "HP": 1650
             },
             "Count": 1889
-        },
-        "GameName": "SandSnail"
+        }
     },
     {
         "Index": 472,
@@ -16553,8 +16083,7 @@
                 "HP": 1740
             },
             "Count": 2136
-        },
-        "GameName": "CannibalTentacles"
+        }
     },
     {
         "Index": 473,
@@ -16589,8 +16118,7 @@
                 "HP": 1600
             },
             "Count": 1798
-        },
-        "GameName": "Tucson"
+        }
     },
     {
         "Index": 474,
@@ -16625,8 +16153,7 @@
                 "HP": 1950
             },
             "Count": 2168
-        },
-        "GameName": "TucsonFighter"
+        }
     },
     {
         "Index": 475,
@@ -16661,8 +16188,7 @@
                 "HP": 1350
             },
             "Count": 1538
-        },
-        "GameName": "TucsonMage"
+        }
     },
     {
         "Index": 476,
@@ -16699,12 +16225,11 @@
                 "HP": 1400
             },
             "Count": 1669
-        },
-        "GameName": "TucsonWarrior"
+        }
     },
     {
         "Index": 477,
-        "Name": "TucsonGeneral",
+        "Name": "GeneralTucson",
         "Image": 296,
         "AI": 131,
         "Effect": 0,
@@ -16739,8 +16264,7 @@
                 "HP": 38000
             },
             "Count": 39317
-        },
-        "GameName": "TucsonGeneral"
+        }
     },
     {
         "Index": 478,
@@ -16775,8 +16299,7 @@
                 "HP": 2350
             },
             "Count": 2764
-        },
-        "GameName": "FrozenSolider"
+        }
     },
     {
         "Index": 479,
@@ -16815,8 +16338,7 @@
                 "HP": 2500
             },
             "Count": 3344
-        },
-        "GameName": "FrozenFighter"
+        }
     },
     {
         "Index": 480,
@@ -16855,8 +16377,7 @@
                 "HP": 1950
             },
             "Count": 2781
-        },
-        "GameName": "FrozenArcher"
+        }
     },
     {
         "Index": 481,
@@ -16891,8 +16412,7 @@
                 "HP": 2500
             },
             "Count": 2909
-        },
-        "GameName": "FrozenKnight"
+        }
     },
     {
         "Index": 482,
@@ -16927,8 +16447,7 @@
                 "HP": 2550
             },
             "Count": 2914
-        },
-        "GameName": "FrozenGolem"
+        }
     },
     {
         "Index": 483,
@@ -16963,8 +16482,7 @@
                 "HP": 2800
             },
             "Count": 3369
-        },
-        "GameName": "IcePhantom"
+        }
     },
     {
         "Index": 484,
@@ -16999,8 +16517,7 @@
                 "HP": 2250
             },
             "Count": 2650
-        },
-        "GameName": "SnowWolf"
+        }
     },
     {
         "Index": 485,
@@ -17035,8 +16552,7 @@
                 "HP": 2350
             },
             "Count": 2753
-        },
-        "GameName": "FrozenWarewolf"
+        }
     },
     {
         "Index": 486,
@@ -17073,8 +16589,7 @@
                 "HP": 1950
             },
             "Count": 2511
-        },
-        "GameName": "FrozenMiner"
+        }
     },
     {
         "Index": 487,
@@ -17111,8 +16626,7 @@
                 "HP": 2250
             },
             "Count": 2835
-        },
-        "GameName": "FrozenAxeman"
+        }
     },
     {
         "Index": 488,
@@ -17149,8 +16663,7 @@
                 "HP": 2500
             },
             "Count": 3129
-        },
-        "GameName": "FrozenMagician"
+        }
     },
     {
         "Index": 489,
@@ -17185,8 +16698,7 @@
                 "HP": 2350
             },
             "Count": 2764
-        },
-        "GameName": "SnowYeti"
+        }
     },
     {
         "Index": 490,
@@ -17225,8 +16737,7 @@
                 "HP": 17000
             },
             "Count": 17987
-        },
-        "GameName": "IceCrystalSolider"
+        }
     },
     {
         "Index": 491,
@@ -17265,8 +16776,7 @@
                 "HP": 35000
             },
             "Count": 36840
-        },
-        "GameName": "DarkWraith"
+        }
     },
     {
         "Index": 492,
@@ -17305,8 +16815,7 @@
                 "HP": 8000
             },
             "Count": 9080
-        },
-        "GameName": "DarkSpirit"
+        }
     },
     {
         "Index": 493,
@@ -17343,12 +16852,11 @@
                 "HP": 1950
             },
             "Count": 2511
-        },
-        "GameName": "SinseokMiner"
+        }
     },
     {
         "Index": 494,
-        "Name": "BloodyLureSpider",
+        "Name": "血之花吻蛛",
         "Image": 56,
         "AI": 4,
         "Effect": 0,
@@ -17379,12 +16887,11 @@
                 "HP": 300
             },
             "Count": 428
-        },
-        "GameName": "BloodyLureSpider"
+        }
     },
     {
         "Index": 495,
-        "Name": "GhostZombie",
+        "Name": "幽灵僵尸",
         "Image": 70,
         "AI": 25,
         "Effect": 0,
@@ -17415,12 +16922,11 @@
                 "HP": 155
             },
             "Count": 214
-        },
-        "GameName": "GhostZombie"
+        }
     },
     {
         "Index": 496,
-        "Name": "DarkPriestZombie",
+        "Name": "暗之僵尸神父",
         "Image": 69,
         "AI": 24,
         "Effect": 0,
@@ -17447,12 +16953,11 @@
                 "HP": 155
             },
             "Count": 211
-        },
-        "GameName": "DarkPriestZombie"
+        }
     },
     {
         "Index": 497,
-        "Name": "ChainGhoul",
+        "Name": "血尸王",
         "Image": 74,
         "AI": 0,
         "Effect": 0,
@@ -17483,12 +16988,11 @@
                 "HP": 500
             },
             "Count": 579
-        },
-        "GameName": "ChainGhoul"
+        }
     },
     {
         "Index": 498,
-        "Name": "Guard3",
+        "Name": "卫士3",
         "Image": 377,
         "AI": 6,
         "Effect": 0,
@@ -17523,12 +17027,11 @@
                 "HP": 9999
             },
             "Count": 20499
-        },
-        "GameName": "Guard"
+        }
     },
     {
         "Index": 499,
-        "Name": "ArcherGuard3",
+        "Name": "弓箭守卫3",
         "Image": 378,
         "AI": 80,
         "Effect": 0,
@@ -17563,8 +17066,7 @@
                 "HP": 9999
             },
             "Count": 20499
-        },
-        "GameName": "ArcherGuard"
+        }
     },
     {
         "Index": 500,
@@ -17603,8 +17105,7 @@
                 "HP": 500
             },
             "Count": 735
-        },
-        "GameName": "GameShop_Guard"
+        }
     },
     {
         "Index": 501,
@@ -17631,12 +17132,11 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "Football"
+        }
     },
     {
         "Index": 502,
-        "Name": "Royal_Guard",
+        "Name": "皇城卫士",
         "Image": 0,
         "AI": 6,
         "Effect": 0,
@@ -17671,12 +17171,11 @@
                 "HP": 999999
             },
             "Count": 1010499
-        },
-        "GameName": "Royal_Guard"
+        }
     },
     {
         "Index": 503,
-        "Name": "Royal_Archer",
+        "Name": "皇城弓箭护卫",
         "Image": 139,
         "AI": 57,
         "Effect": 0,
@@ -17711,12 +17210,11 @@
                 "HP": 999999
             },
             "Count": 1010499
-        },
-        "GameName": "Royal_Archer"
+        }
     },
     {
         "Index": 504,
-        "Name": "Royal_Lieutenant",
+        "Name": "锦衣卫",
         "Image": 1,
         "AI": 6,
         "Effect": 0,
@@ -17751,8 +17249,7 @@
                 "HP": 999999
             },
             "Count": 1010499
-        },
-        "GameName": "Royal_Lieutenant"
+        }
     },
     {
         "Index": 505,
@@ -17789,8 +17286,7 @@
                 "HP": 4500
             },
             "Count": 4691
-        },
-        "GameName": "PKSpirit"
+        }
     },
     {
         "Index": 506,
@@ -17822,8 +17318,7 @@
                 "HP": 1500
             },
             "Count": 1565
-        },
-        "GameName": "Frog"
+        }
     },
     {
         "Index": 512,
@@ -17850,8 +17345,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "RedTurtle"
+        }
     },
     {
         "Index": 513,
@@ -17878,8 +17372,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "GreenTurtle"
+        }
     },
     {
         "Index": 514,
@@ -17906,8 +17399,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "BlueTurtle"
+        }
     },
     {
         "Index": 515,
@@ -17934,8 +17426,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "TowerTurtle"
+        }
     },
     {
         "Index": 516,
@@ -17962,8 +17453,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "FinialTurtle"
+        }
     },
     {
         "Index": 517,
@@ -17990,8 +17480,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "Hugger"
+        }
     },
     {
         "Index": 518,
@@ -18018,8 +17507,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "PoisonHugger"
+        }
     },
     {
         "Index": 519,
@@ -18046,8 +17534,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "MutatedHugger"
+        }
     },
     {
         "Index": 520,
@@ -18082,8 +17569,7 @@
                 "HP": 35000
             },
             "Count": 35715
-        },
-        "GameName": "HellKnight"
+        }
     },
     {
         "Index": 521,
@@ -18118,8 +17604,7 @@
                 "HP": 35000
             },
             "Count": 35875
-        },
-        "GameName": "HellKnight"
+        }
     },
     {
         "Index": 522,
@@ -18154,8 +17639,7 @@
                 "HP": 35000
             },
             "Count": 35935
-        },
-        "GameName": "HellKnight"
+        }
     },
     {
         "Index": 523,
@@ -18190,8 +17674,7 @@
                 "HP": 35000
             },
             "Count": 36110
-        },
-        "GameName": "HellKnight"
+        }
     },
     {
         "Index": 524,
@@ -18226,8 +17709,7 @@
                 "HP": 500
             },
             "Count": 820
-        },
-        "GameName": "HellBomb"
+        }
     },
     {
         "Index": 525,
@@ -18262,8 +17744,7 @@
                 "HP": 500
             },
             "Count": 810
-        },
-        "GameName": "HellBomb"
+        }
     },
     {
         "Index": 526,
@@ -18298,8 +17779,7 @@
                 "HP": 500
             },
             "Count": 820
-        },
-        "GameName": "HellBomb"
+        }
     },
     {
         "Index": 527,
@@ -18334,8 +17814,7 @@
                 "HP": 175000
             },
             "Count": 176420
-        },
-        "GameName": "HellLord"
+        }
     },
     {
         "Index": 537,
@@ -18362,8 +17841,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "Hydrax"
+        }
     },
     {
         "Index": 538,
@@ -18390,8 +17868,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "HornedSorceror"
+        }
     },
     {
         "Index": 540,
@@ -18418,8 +17895,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "HornedArcher"
+        }
     },
     {
         "Index": 541,
@@ -18446,8 +17922,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "HornedCommander"
+        }
     },
     {
         "Index": 542,
@@ -18474,8 +17949,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "HornedMage"
+        }
     },
     {
         "Index": 544,
@@ -18502,8 +17976,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "HornedWarrior"
+        }
     },
     {
         "Index": 545,
@@ -18530,8 +18003,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "BoulderSpirit"
+        }
     },
     {
         "Index": 546,
@@ -18558,8 +18030,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "WarriorScroll"
+        }
     },
     {
         "Index": 547,
@@ -18586,8 +18057,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "TaoistScroll"
+        }
     },
     {
         "Index": 548,
@@ -18614,8 +18084,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "WizardScroll"
+        }
     },
     {
         "Index": 549,
@@ -18642,8 +18111,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "AssassinScroll"
+        }
     },
     {
         "Index": 550,
@@ -18670,8 +18138,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "ZumaStatue"
+        }
     },
     {
         "Index": 551,
@@ -18698,8 +18165,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "ZumaGuardian"
+        }
     },
     {
         "Index": 552,
@@ -18726,8 +18192,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "ZumaArcher"
+        }
     },
     {
         "Index": 553,
@@ -18754,8 +18219,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "WedgeMoth"
+        }
     },
     {
         "Index": 554,
@@ -18782,8 +18246,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "Michelangelo"
+        }
     },
     {
         "Index": 555,
@@ -18810,8 +18273,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "Raphael"
+        }
     },
     {
         "Index": 556,
@@ -18838,8 +18300,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "Donatello"
+        }
     },
     {
         "Index": 557,
@@ -18866,8 +18327,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "BoneSpearman"
+        }
     },
     {
         "Index": 558,
@@ -18894,8 +18354,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "BoneBlademan"
+        }
     },
     {
         "Index": 559,
@@ -18922,8 +18381,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "BoneArcher"
+        }
     },
     {
         "Index": 560,
@@ -18950,8 +18408,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "BoneCaptain"
+        }
     },
     {
         "Index": 561,
@@ -18978,8 +18435,7 @@
                 "HP": 1
             },
             "Count": 1
-        },
-        "GameName": "SeaTurtle"
+        }
     },
     {
         "Index": 562,
@@ -19014,8 +18470,7 @@
                 "HP": 25000
             },
             "Count": 26090
-        },
-        "GameName": "TreeQueen"
+        }
     },
     {
         "Index": 563,
@@ -19050,8 +18505,7 @@
                 "HP": 16000
             },
             "Count": 16385
-        },
-        "GameName": "Ancient_ZumaTaurus"
+        }
     },
     {
         "Index": 564,
@@ -19076,8 +18530,7 @@
         "Stats": {
             "Values": {},
             "Count": 0
-        },
-        "GameName": "Frozen_ZumaStatue"
+        }
     },
     {
         "Index": 565,
@@ -19102,8 +18555,7 @@
         "Stats": {
             "Values": {},
             "Count": 0
-        },
-        "GameName": "Frozen_ZumaGuardian"
+        }
     },
     {
         "Index": 566,
@@ -19128,8 +18580,7 @@
         "Stats": {
             "Values": {},
             "Count": 0
-        },
-        "GameName": "Frozen_RedZuma"
+        }
     },
     {
         "Index": 567,
@@ -19162,8 +18613,7 @@
                 "HP": 1000
             },
             "Count": 1105
-        },
-        "GameName": "StoneTrap"
+        }
     },
     {
         "Index": 568,
@@ -19194,8 +18644,7 @@
                 "HP": 5000
             },
             "Count": 5040
-        },
-        "GameName": "SabukGate"
+        }
     },
     {
         "Index": 569,
@@ -19226,8 +18675,7 @@
                 "HP": 5000
             },
             "Count": 5200
-        },
-        "GameName": "PalaceWallLeft"
+        }
     },
     {
         "Index": 570,
@@ -19258,8 +18706,7 @@
                 "HP": 5000
             },
             "Count": 5200
-        },
-        "GameName": "PalaceWall"
+        }
     },
     {
         "Index": 571,
@@ -19290,12 +18737,11 @@
                 "HP": 5000
             },
             "Count": 5200
-        },
-        "GameName": "PalaceWall"
+        }
     },
     {
         "Index": 572,
-        "Name": "MudZombie",
+        "Name": "疯狂泥僵",
         "Image": 263,
         "AI": 108,
         "Effect": 0,
@@ -19316,7 +18762,6 @@
         "Stats": {
             "Values": {},
             "Count": 0
-        },
-        "GameName": "MudZombie"
+        }
     }
 ]
