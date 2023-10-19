@@ -11603,7 +11603,7 @@
     },
     {
         "Index": 278,
-        "Name": "月轮剑",
+        "Name": "月轮剑1",
         "Type": 1,
         "Grade": 4,
         "RequiredType": 0,
@@ -29034,7 +29034,7 @@
     },
     {
         "Index": 701,
-        "Name": "大骨汤",
+        "Name": "酸辣汤",
         "Type": 13,
         "Grade": 0,
         "RequiredType": 0,
@@ -29151,7 +29151,7 @@
     },
     {
         "Index": 704,
-        "Name": "酸辣汤",
+        "Name": "大骨汤",
         "Type": 13,
         "Grade": 0,
         "RequiredType": 0,
@@ -29190,7 +29190,7 @@
     },
     {
         "Index": 705,
-        "Name": "食人花茶",
+        "Name": "食人花果茶",
         "Type": 13,
         "Grade": 0,
         "RequiredType": 0,
@@ -33937,7 +33937,7 @@
         "Light": 0,
         "RequiredAmount": 0,
         "Image": 286,
-        "Durability": 10000,
+        "Durability": 20000,
         "Price": 1000,
         "StackSize": 1,
         "StartItem": false,
@@ -44614,7 +44614,7 @@
     },
     {
         "Index": 1111,
-        "Name": "食人花叶",
+        "Name": "食人花叶1",
         "Type": 34,
         "Grade": 0,
         "RequiredType": 0,
@@ -45021,7 +45021,7 @@
     },
     {
         "Index": 1122,
-        "Name": "乌木果",
+        "Name": "乌木果1",
         "Type": 34,
         "Grade": 0,
         "RequiredType": 0,
@@ -46913,7 +46913,7 @@
     },
     {
         "Index": 1173,
-        "Name": "猛虎刀",
+        "Name": "猛虎刀1",
         "Type": 1,
         "Grade": 0,
         "RequiredType": 0,
