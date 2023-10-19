@@ -3491,7 +3491,7 @@
     },
     {
         "Index": 83,
-        "Name": "龙骨刀",
+        "Name": "骨斩刀",
         "Type": 1,
         "Grade": 1,
         "RequiredType": 0,
@@ -3535,7 +3535,7 @@
     },
     {
         "Index": 84,
-        "Name": "龙骨甲(男)",
+        "Name": "白骨衣(男)",
         "Type": 2,
         "Grade": 1,
         "RequiredType": 0,
@@ -3577,7 +3577,7 @@
     },
     {
         "Index": 85,
-        "Name": "龙骨甲(女)",
+        "Name": "白骨衣(女)",
         "Type": 2,
         "Grade": 1,
         "RequiredType": 0,
@@ -3619,7 +3619,7 @@
     },
     {
         "Index": 86,
-        "Name": "龙骨盔",
+        "Name": "白骨头巾",
         "Type": 4,
         "Grade": 1,
         "RequiredType": 0,
@@ -3659,7 +3659,7 @@
     },
     {
         "Index": 87,
-        "Name": "虫眼项链",
+        "Name": "虫血项链",
         "Type": 5,
         "Grade": 1,
         "RequiredType": 0,
@@ -3703,7 +3703,7 @@
     },
     {
         "Index": 88,
-        "Name": "虫眼手镯",
+        "Name": "虫血手镯",
         "Type": 6,
         "Grade": 1,
         "RequiredType": 0,
@@ -3744,7 +3744,7 @@
     },
     {
         "Index": 89,
-        "Name": "虫眼戒指",
+        "Name": "虫血戒指",
         "Type": 7,
         "Grade": 1,
         "RequiredType": 0,
@@ -3990,7 +3990,7 @@
     },
     {
         "Index": 95,
-        "Name": "雷霆腰带(H)",
+        "Name": "强化雷霆腰带",
         "Type": 9,
         "Grade": 1,
         "RequiredType": 0,
@@ -4030,7 +4030,7 @@
     },
     {
         "Index": 96,
-        "Name": "雷霆战靴(H)",
+        "Name": "强化雷霆战靴",
         "Type": 10,
         "Grade": 1,
         "RequiredType": 0,
@@ -4072,7 +4072,7 @@
     },
     {
         "Index": 97,
-        "Name": "雷霆项链(H)",
+        "Name": "强化雷霆项链",
         "Type": 5,
         "Grade": 1,
         "RequiredType": 0,
@@ -4111,7 +4111,7 @@
     },
     {
         "Index": 98,
-        "Name": "雷霆手镯(H)",
+        "Name": "强化雷霆手镯",
         "Type": 6,
         "Grade": 1,
         "RequiredType": 0,
@@ -4152,7 +4152,7 @@
     },
     {
         "Index": 99,
-        "Name": "雷霆战戒(H)",
+        "Name": "强化雷霆战戒",
         "Type": 7,
         "Grade": 1,
         "RequiredType": 0,
@@ -4192,7 +4192,7 @@
     },
     {
         "Index": 100,
-        "Name": "RedJadeBelt",
+        "Name": "红玉腰带",
         "Type": 9,
         "Grade": 1,
         "RequiredType": 0,
@@ -4232,7 +4232,7 @@
     },
     {
         "Index": 101,
-        "Name": "RedJadeShoes",
+        "Name": "红玉鞋",
         "Type": 10,
         "Grade": 1,
         "RequiredType": 0,
@@ -4273,7 +4273,7 @@
     },
     {
         "Index": 102,
-        "Name": "Red翡翠项链",
+        "Name": "红玉项链",
         "Type": 5,
         "Grade": 1,
         "RequiredType": 0,
@@ -4313,7 +4313,7 @@
     },
     {
         "Index": 103,
-        "Name": "RedJadeBracelet",
+        "Name": "红玉轮",
         "Type": 6,
         "Grade": 1,
         "RequiredType": 0,
@@ -4352,7 +4352,7 @@
     },
     {
         "Index": 104,
-        "Name": "RedJadeRing",
+        "Name": "红玉环",
         "Type": 7,
         "Grade": 1,
         "RequiredType": 0,
@@ -4392,7 +4392,7 @@
     },
     {
         "Index": 105,
-        "Name": "RedJadeBelt(H)",
+        "Name": "强化红玉腰带",
         "Type": 9,
         "Grade": 1,
         "RequiredType": 0,
@@ -4432,7 +4432,7 @@
     },
     {
         "Index": 106,
-        "Name": "RedJadeShoes(H)",
+        "Name": "强化红玉鞋",
         "Type": 10,
         "Grade": 1,
         "RequiredType": 0,
@@ -4474,7 +4474,7 @@
     },
     {
         "Index": 107,
-        "Name": "Red翡翠项链(H)",
+        "Name": "强化红玉项链",
         "Type": 5,
         "Grade": 1,
         "RequiredType": 0,
@@ -4513,7 +4513,7 @@
     },
     {
         "Index": 108,
-        "Name": "RedJadeBracelet(H)",
+        "Name": "强化红玉轮",
         "Type": 6,
         "Grade": 1,
         "RequiredType": 0,
@@ -4554,7 +4554,7 @@
     },
     {
         "Index": 109,
-        "Name": "RedJadeRing(H)",
+        "Name": "强化红玉环",
         "Type": 7,
         "Grade": 1,
         "RequiredType": 0,
@@ -4594,7 +4594,7 @@
     },
     {
         "Index": 110,
-        "Name": "软玉矿Belt",
+        "Name": "软玉腰带",
         "Type": 9,
         "Grade": 1,
         "RequiredType": 0,
@@ -4634,7 +4634,7 @@
     },
     {
         "Index": 111,
-        "Name": "软玉矿Shoes",
+        "Name": "软玉鞋",
         "Type": 10,
         "Grade": 1,
         "RequiredType": 0,
@@ -4675,7 +4675,7 @@
     },
     {
         "Index": 112,
-        "Name": "软玉矿Necklace",
+        "Name": "软玉项链",
         "Type": 5,
         "Grade": 1,
         "RequiredType": 0,
@@ -4715,7 +4715,7 @@
     },
     {
         "Index": 113,
-        "Name": "软玉矿Bracelet",
+        "Name": "软玉轮",
         "Type": 6,
         "Grade": 1,
         "RequiredType": 0,
@@ -4754,7 +4754,7 @@
     },
     {
         "Index": 114,
-        "Name": "软玉矿Ring",
+        "Name": "软玉环",
         "Type": 7,
         "Grade": 1,
         "RequiredType": 0,
@@ -4794,7 +4794,7 @@
     },
     {
         "Index": 115,
-        "Name": "软玉矿Belt(H)",
+        "Name": "强化软玉腰带",
         "Type": 9,
         "Grade": 1,
         "RequiredType": 0,
@@ -4834,7 +4834,7 @@
     },
     {
         "Index": 116,
-        "Name": "软玉矿Shoes(H)",
+        "Name": "强化软玉鞋",
         "Type": 10,
         "Grade": 1,
         "RequiredType": 0,
@@ -4876,7 +4876,7 @@
     },
     {
         "Index": 117,
-        "Name": "软玉矿Necklace(H)",
+        "Name": "强化软玉项链",
         "Type": 5,
         "Grade": 1,
         "RequiredType": 0,
@@ -4915,7 +4915,7 @@
     },
     {
         "Index": 118,
-        "Name": "软玉矿Bracelet(H)",
+        "Name": "强化软玉轮",
         "Type": 6,
         "Grade": 1,
         "RequiredType": 0,
@@ -4956,7 +4956,7 @@
     },
     {
         "Index": 119,
-        "Name": "软玉矿Ring(H)",
+        "Name": "强化软玉环",
         "Type": 7,
         "Grade": 1,
         "RequiredType": 0,
@@ -22584,7 +22584,7 @@
     },
     {
         "Index": 540,
-        "Name": "翡翠项链",
+        "Name": "珍玉项链",
         "Type": 5,
         "Grade": 1,
         "RequiredType": 0,
@@ -22901,7 +22901,7 @@
     },
     {
         "Index": 548,
-        "Name": "勇士项链",
+        "Name": "斗士项链",
         "Type": 5,
         "Grade": 1,
         "RequiredType": 0,
@@ -28955,7 +28955,7 @@
     },
     {
         "Index": 699,
-        "Name": "HerbalTea",
+        "Name": "花草茶",
         "Type": 13,
         "Grade": 0,
         "RequiredType": 0,
@@ -34011,7 +34011,7 @@
         "Light": 0,
         "RequiredAmount": 0,
         "Image": 285,
-        "Durability": 10000,
+        "Durability": 20000,
         "Price": 5000,
         "StackSize": 1,
         "StartItem": false,
@@ -34233,7 +34233,7 @@
         "Light": 0,
         "RequiredAmount": 0,
         "Image": 530,
-        "Durability": 10000,
+        "Durability": 20000,
         "Price": 6000,
         "StackSize": 1,
         "StartItem": false,
@@ -53822,7 +53822,7 @@
     },
     {
         "Index": 1348,
-        "Name": "CraftingBook",
+        "Name": "制作书",
         "Type": 16,
         "Grade": 2,
         "RequiredType": 0,
