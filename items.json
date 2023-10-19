@@ -3790,7 +3790,7 @@
     },
     {
         "Index": 90,
-        "Name": "雷霆腰带",
+        "Name": "白金腰带",
         "Type": 9,
         "Grade": 1,
         "RequiredType": 0,
@@ -3830,7 +3830,7 @@
     },
     {
         "Index": 91,
-        "Name": "雷霆战靴",
+        "Name": "白金鞋",
         "Type": 10,
         "Grade": 1,
         "RequiredType": 0,
@@ -3871,7 +3871,7 @@
     },
     {
         "Index": 92,
-        "Name": "雷霆项链",
+        "Name": "白金项链",
         "Type": 5,
         "Grade": 1,
         "RequiredType": 0,
@@ -3911,7 +3911,7 @@
     },
     {
         "Index": 93,
-        "Name": "雷霆手镯",
+        "Name": "白金轮",
         "Type": 6,
         "Grade": 1,
         "RequiredType": 0,
@@ -3950,7 +3950,7 @@
     },
     {
         "Index": 94,
-        "Name": "雷霆战戒",
+        "Name": "白金环",
         "Type": 7,
         "Grade": 1,
         "RequiredType": 0,
@@ -3990,7 +3990,7 @@
     },
     {
         "Index": 95,
-        "Name": "强化雷霆腰带",
+        "Name": "强化白金腰带",
         "Type": 9,
         "Grade": 1,
         "RequiredType": 0,
@@ -4030,7 +4030,7 @@
     },
     {
         "Index": 96,
-        "Name": "强化雷霆战靴",
+        "Name": "强化白金鞋",
         "Type": 10,
         "Grade": 1,
         "RequiredType": 0,
@@ -4072,7 +4072,7 @@
     },
     {
         "Index": 97,
-        "Name": "强化雷霆项链",
+        "Name": "强化白金项链",
         "Type": 5,
         "Grade": 1,
         "RequiredType": 0,
@@ -4111,7 +4111,7 @@
     },
     {
         "Index": 98,
-        "Name": "强化雷霆手镯",
+        "Name": "强化白金轮",
         "Type": 6,
         "Grade": 1,
         "RequiredType": 0,
@@ -4152,7 +4152,7 @@
     },
     {
         "Index": 99,
-        "Name": "强化雷霆战戒",
+        "Name": "强化白金环",
         "Type": 7,
         "Grade": 1,
         "RequiredType": 0,
@@ -22545,7 +22545,7 @@
     },
     {
         "Index": 539,
-        "Name": "白金项链",
+        "Name": "铂金项链",
         "Type": 5,
         "Grade": 1,
         "RequiredType": 4,
