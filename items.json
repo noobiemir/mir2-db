@@ -34159,7 +34159,7 @@
         "Light": 0,
         "RequiredAmount": 0,
         "Image": 528,
-        "Durability": 10000,
+        "Durability": 20000,
         "Price": 2400,
         "StackSize": 1,
         "StartItem": false,
