@@ -12417,7 +12417,7 @@
     },
     {
         "Index": 298,
-        "Name": "WoodenBow",
+        "Name": "木弓",
         "Type": 1,
         "Grade": 1,
         "RequiredType": 0,
@@ -12457,7 +12457,7 @@
     },
     {
         "Index": 299,
-        "Name": "EbonyBow",
+        "Name": "革弓",
         "Type": 1,
         "Grade": 1,
         "RequiredType": 0,
@@ -12497,7 +12497,7 @@
     },
     {
         "Index": 300,
-        "Name": "ShortBow",
+        "Name": "铁弓",
         "Type": 1,
         "Grade": 1,
         "RequiredType": 0,
@@ -12539,7 +12539,7 @@
     },
     {
         "Index": 301,
-        "Name": "BoneBow",
+        "Name": "弩弓",
         "Type": 1,
         "Grade": 1,
         "RequiredType": 0,
@@ -12581,7 +12581,7 @@
     },
     {
         "Index": 302,
-        "Name": "CompoundBow",
+        "Name": "杉木铁弓",
         "Type": 1,
         "Grade": 1,
         "RequiredType": 0,
@@ -12623,7 +12623,7 @@
     },
     {
         "Index": 303,
-        "Name": "LongBow",
+        "Name": "绝命弓",
         "Type": 1,
         "Grade": 1,
         "RequiredType": 0,
@@ -12665,7 +12665,7 @@
     },
     {
         "Index": 304,
-        "Name": "SilverBow",
+        "Name": "满义弓",
         "Type": 1,
         "Grade": 1,
         "RequiredType": 0,
@@ -12707,7 +12707,7 @@
     },
     {
         "Index": 305,
-        "Name": "ZumaFiendBow",
+        "Name": "祖玛之魂魅弓",
         "Type": 1,
         "Grade": 1,
         "RequiredType": 0,
@@ -12750,7 +12750,7 @@
     },
     {
         "Index": 306,
-        "Name": "FiendBow",
+        "Name": "魂魅弓",
         "Type": 1,
         "Grade": 2,
         "RequiredType": 0,
@@ -12792,7 +12792,7 @@
     },
     {
         "Index": 307,
-        "Name": "CursedMaleficBow",
+        "Name": "墨龙黄龙弓",
         "Type": 1,
         "Grade": 2,
         "RequiredType": 0,
@@ -12825,9 +12825,9 @@
         "Stats": {
             "Values": {
                 "MinDC": 8,
-                "MaxDC": 33,
-                "MinMC": 2,
-                "MaxMC": 3,
+                "MaxDC": 30,
+                "MinMC": 1,
+                "MaxMC": 4,
                 "AttackSpeed": -2
             },
             "Count": 48
@@ -12835,7 +12835,7 @@
     },
     {
         "Index": 308,
-        "Name": "LitheBow",
+        "Name": "霸王弓",
         "Type": 1,
         "Grade": 2,
         "RequiredType": 0,
@@ -12877,7 +12877,7 @@
     },
     {
         "Index": 309,
-        "Name": "MaleficBow",
+        "Name": "黄龙弓",
         "Type": 1,
         "Grade": 2,
         "RequiredType": 0,
@@ -12919,7 +12919,7 @@
     },
     {
         "Index": 310,
-        "Name": "BowOfForce",
+        "Name": "地狱魔弓",
         "Type": 1,
         "Grade": 4,
         "RequiredType": 0,
@@ -12951,7 +12951,7 @@
         "Slots": 0,
         "Stats": {
             "Values": {
-                "MinDC": 14,
+                "MinDC": 12,
                 "MaxDC": 46,
                 "MinMC": 2,
                 "MaxMC": 8
@@ -12961,7 +12961,7 @@
     },
     {
         "Index": 311,
-        "Name": "DreadBow",
+        "Name": "魔血弓",
         "Type": 1,
         "Grade": 3,
         "RequiredType": 0,
@@ -13003,7 +13003,7 @@
     },
     {
         "Index": 312,
-        "Name": "GrimBow",
+        "Name": "黑魂弓",
         "Type": 1,
         "Grade": 3,
         "RequiredType": 0,
@@ -13047,7 +13047,7 @@
     },
     {
         "Index": 313,
-        "Name": "LethalBow",
+        "Name": "大力神弓",
         "Type": 1,
         "Grade": 3,
         "RequiredType": 0,
@@ -13089,7 +13089,7 @@
     },
     {
         "Index": 314,
-        "Name": "ApusBow",
+        "Name": "玉虹星弓",
         "Type": 1,
         "Grade": 3,
         "RequiredType": 0,
@@ -13132,7 +13132,7 @@
     },
     {
         "Index": 315,
-        "Name": "DeathBow",
+        "Name": "黄泉弓",
         "Type": 1,
         "Grade": 3,
         "RequiredType": 0,
@@ -13174,7 +13174,7 @@
     },
     {
         "Index": 316,
-        "Name": "BloodThirstyBow",
+        "Name": "嗜血鬼弓",
         "Type": 1,
         "Grade": 3,
         "RequiredType": 0,
@@ -39820,7 +39820,7 @@
     },
     {
         "Index": 983,
-        "Name": "攻破斩",
+        "Name": "空破闪",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -39931,7 +39931,7 @@
     },
     {
         "Index": 986,
-        "Name": "反击",
+        "Name": "天务",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -40042,7 +40042,7 @@
     },
     {
         "Index": 989,
-        "Name": "ImmortalSkin",
+        "Name": "金刚不坏",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -40597,7 +40597,7 @@
     },
     {
         "Index": 1004,
-        "Name": "嗜血术",
+        "Name": "噬血术",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -40671,7 +40671,7 @@
     },
     {
         "Index": 1006,
-        "Name": "火龙术",
+        "Name": "灭天火",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -40932,7 +40932,7 @@
     },
     {
         "Index": 1013,
-        "Name": "Blink",
+        "Name": "天上秘术",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -40969,7 +40969,7 @@
     },
     {
         "Index": 1014,
-        "Name": "StormEscape",
+        "Name": "雷仙风",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -41006,7 +41006,7 @@
     },
     {
         "Index": 1015,
-        "Name": "FastMove",
+        "Name": "高速移动",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -41265,7 +41265,7 @@
     },
     {
         "Index": 1022,
-        "Name": "集体隐身术",
+        "Name": "群体隐身术",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -41931,7 +41931,7 @@
     },
     {
         "Index": 1040,
-        "Name": "HealingCircle",
+        "Name": "阴阳五行阵",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -42005,7 +42005,7 @@
     },
     {
         "Index": 1042,
-        "Name": "双刀术",
+        "Name": "风剑术",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -42486,7 +42486,7 @@
     },
     {
         "Index": 1055,
-        "Name": "猫舌兰",
+        "Name": "月华乱舞",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -42523,7 +42523,7 @@
     },
     {
         "Index": 1056,
-        "Name": "月华乱舞",
+        "Name": "月影雾",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -42560,7 +42560,7 @@
     },
     {
         "Index": 1057,
-        "Name": "Focus",
+        "Name": "必中闪",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -42597,7 +42597,7 @@
     },
     {
         "Index": 1058,
-        "Name": "StraightShot",
+        "Name": "天日闪",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -42634,7 +42634,7 @@
     },
     {
         "Index": 1059,
-        "Name": "MentalState",
+        "Name": "气功石",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -42671,7 +42671,7 @@
     },
     {
         "Index": 1060,
-        "Name": "DoubleShot",
+        "Name": "无我闪",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -42708,7 +42708,7 @@
     },
     {
         "Index": 1061,
-        "Name": "Meditation",
+        "Name": "气功术",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -42745,7 +42745,7 @@
     },
     {
         "Index": 1062,
-        "Name": "ElementalShot",
+        "Name": "万斤闪",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -42782,7 +42782,7 @@
     },
     {
         "Index": 1063,
-        "Name": "ExplosiveTrap",
+        "Name": "爆阱",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -42819,7 +42819,7 @@
     },
     {
         "Index": 1064,
-        "Name": "Concentration",
+        "Name": "气流术",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -42856,7 +42856,7 @@
     },
     {
         "Index": 1065,
-        "Name": "VampireShot",
+        "Name": "吸血地闪",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -42893,7 +42893,7 @@
     },
     {
         "Index": 1066,
-        "Name": "SummonVampire",
+        "Name": "吸血地精",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -42930,7 +42930,7 @@
     },
     {
         "Index": 1067,
-        "Name": "BackStep",
+        "Name": "风弹步",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -42967,7 +42967,7 @@
     },
     {
         "Index": 1068,
-        "Name": "DelayedExplosion",
+        "Name": "爆闪",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -43004,7 +43004,7 @@
     },
     {
         "Index": 1069,
-        "Name": "ElementalBarrier",
+        "Name": "金刚术",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -43041,7 +43041,7 @@
     },
     {
         "Index": 1070,
-        "Name": "BindingShot",
+        "Name": "束缚闪",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -43078,7 +43078,7 @@
     },
     {
         "Index": 1071,
-        "Name": "SummonToad",
+        "Name": "痹魔阱",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -43115,7 +43115,7 @@
     },
     {
         "Index": 1072,
-        "Name": "PoisonShot",
+        "Name": "毒魔闪",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -43152,7 +43152,7 @@
     },
     {
         "Index": 1073,
-        "Name": "CrippleShot",
+        "Name": "邪爆闪",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -43189,7 +43189,7 @@
     },
     {
         "Index": 1074,
-        "Name": "SummonSnakes",
+        "Name": "蛇柱阱",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -43226,7 +43226,7 @@
     },
     {
         "Index": 1075,
-        "Name": "NapalmShot",
+        "Name": "血龙闪",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -43263,7 +43263,7 @@
     },
     {
         "Index": 1076,
-        "Name": "OneWithNature",
+        "Name": "自然合一",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -43300,7 +43300,7 @@
     },
     {
         "Index": 1077,
-        "Name": "StoneTrap",
+        "Name": "地柱钉",
         "Type": 20,
         "Grade": 0,
         "RequiredType": 0,
@@ -46953,7 +46953,7 @@
     },
     {
         "Index": 1174,
-        "Name": "StiffWoodenBow",
+        "Name": "硬木弓",
         "Type": 1,
         "Grade": 0,
         "RequiredType": 0,
@@ -47153,7 +47153,7 @@
     },
     {
         "Index": 1179,
-        "Name": "StrongWoodenBow",
+        "Name": "坚固木弓",
         "Type": 1,
         "Grade": 0,
         "RequiredType": 0,
@@ -47354,7 +47354,7 @@
     },
     {
         "Index": 1184,
-        "Name": "ElkWoodenBow",
+        "Name": "麋鹿木弓",
         "Type": 1,
         "Grade": 0,
         "RequiredType": 0,
@@ -48002,7 +48002,7 @@
     },
     {
         "Index": 1200,
-        "Name": "ToughBow",
+        "Name": "韧弓",
         "Type": 1,
         "Grade": 0,
         "RequiredType": 0,
@@ -48813,7 +48813,7 @@
     },
     {
         "Index": 1220,
-        "Name": "ToughLongBow",
+        "Name": "韧长弓",
         "Type": 1,
         "Grade": 0,
         "RequiredType": 0,
@@ -49816,7 +49816,7 @@
     },
     {
         "Index": 1244,
-        "Name": "SolidSilverBow",
+        "Name": "银翎之弓",
         "Type": 1,
         "Grade": 0,
         "RequiredType": 0,
@@ -50422,7 +50422,7 @@
     },
     {
         "Index": 1258,
-        "Name": "RedMoonBow",
+        "Name": "赤月弓",
         "Type": 1,
         "Grade": 0,
         "RequiredType": 0,
@@ -54592,7 +54592,7 @@
     },
     {
         "Index": 1369,
-        "Name": "IceDragonSkyBow",
+        "Name": "冰龙天弓",
         "Type": 1,
         "Grade": 4,
         "RequiredType": 0,
@@ -54636,7 +54636,7 @@
     },
     {
         "Index": 1370,
-        "Name": "IronThornBow",
+        "Name": "刺心寒弓",
         "Type": 1,
         "Grade": 2,
         "RequiredType": 0,
@@ -54678,7 +54678,7 @@
     },
     {
         "Index": 1371,
-        "Name": "PhoenixBow",
+        "Name": "金翎凤弓",
         "Type": 1,
         "Grade": 4,
         "RequiredType": 0,
@@ -54761,7 +54761,7 @@
     },
     {
         "Index": 1373,
-        "Name": "RetsuenBow",
+        "Name": "炎火天弓",
         "Type": 1,
         "Grade": 4,
         "RequiredType": 0,
@@ -54803,7 +54803,7 @@
     },
     {
         "Index": 1374,
-        "Name": "(金龍)YellowDragonBow",
+        "Name": "(金龍)碧波玉龙",
         "Type": 1,
         "Grade": 2,
         "RequiredType": 0,
