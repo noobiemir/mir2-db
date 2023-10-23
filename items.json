@@ -13812,7 +13812,7 @@
     },
     {
         "Index": 331,
-        "Name": "LightLeatherArmour(男)",
+        "Name": "轻革衣(男)",
         "Type": 2,
         "Grade": 1,
         "RequiredType": 0,
@@ -13856,7 +13856,7 @@
     },
     {
         "Index": 332,
-        "Name": "LightLeatherArmour(女)",
+        "Name": "轻革衣(女)",
         "Type": 2,
         "Grade": 1,
         "RequiredType": 0,
@@ -14240,7 +14240,7 @@
     },
     {
         "Index": 341,
-        "Name": "TemperedArmour(男)",
+        "Name": "魂魅神衣(男)",
         "Type": 2,
         "Grade": 1,
         "RequiredType": 0,
@@ -14285,7 +14285,7 @@
     },
     {
         "Index": 342,
-        "Name": "TemperedArmour(女)",
+        "Name": "魂魅神衣(女)",
         "Type": 2,
         "Grade": 1,
         "RequiredType": 0,
@@ -14670,7 +14670,7 @@
     },
     {
         "Index": 351,
-        "Name": "StuddedArmour(男)",
+        "Name": "黄龙衣(男)",
         "Type": 2,
         "Grade": 2,
         "RequiredType": 0,
@@ -14715,7 +14715,7 @@
     },
     {
         "Index": 352,
-        "Name": "StuddedArmour(女)",
+        "Name": "黄龙衣(女)",
         "Type": 2,
         "Grade": 2,
         "RequiredType": 0,
@@ -15112,7 +15112,7 @@
     },
     {
         "Index": 361,
-        "Name": "LightTemperedArmour(男)",
+        "Name": "玄符战衣(男)",
         "Type": 2,
         "Grade": 2,
         "RequiredType": 0,
@@ -15158,7 +15158,7 @@
     },
     {
         "Index": 362,
-        "Name": "LightTemperedArmour(女)",
+        "Name": "玄符战衣(女)",
         "Type": 2,
         "Grade": 2,
         "RequiredType": 0,
@@ -15596,7 +15596,7 @@
     },
     {
         "Index": 371,
-        "Name": "ScaledArmour(男)",
+        "Name": "玉魔甲(男)",
         "Type": 2,
         "Grade": 2,
         "RequiredType": 0,
@@ -15645,7 +15645,7 @@
     },
     {
         "Index": 372,
-        "Name": "ScaledArmour(女)",
+        "Name": "玉魔甲(女)",
         "Type": 2,
         "Grade": 2,
         "RequiredType": 0,
@@ -16995,7 +16995,7 @@
     },
     {
         "Index": 403,
-        "Name": "HardenedRing",
+        "Name": "坚固之环",
         "Type": 7,
         "Grade": 3,
         "RequiredType": 0,
@@ -18805,7 +18805,7 @@
     },
     {
         "Index": 448,
-        "Name": "SurvivalRing",
+        "Name": "赤炼符戒",
         "Type": 7,
         "Grade": 4,
         "RequiredType": 0,
@@ -21737,7 +21737,7 @@
     },
     {
         "Index": 520,
-        "Name": "SurvivalBracelet",
+        "Name": "赤炼符轮",
         "Type": 6,
         "Grade": 4,
         "RequiredType": 0,
@@ -24068,7 +24068,7 @@
     },
     {
         "Index": 577,
-        "Name": "SurvivalNecklace",
+        "Name": "赤炼符链",
         "Type": 5,
         "Grade": 4,
         "RequiredType": 0,
@@ -36706,7 +36706,7 @@
     },
     {
         "Index": 899,
-        "Name": "SpiderLeg",
+        "Name": "蜘蛛腿",
         "Type": 34,
         "Grade": 0,
         "RequiredType": 0,
@@ -36743,7 +36743,7 @@
     },
     {
         "Index": 900,
-        "Name": "CannibalPoison",
+        "Name": "食人花毒",
         "Type": 34,
         "Grade": 0,
         "RequiredType": 0,
@@ -49199,7 +49199,7 @@
     },
     {
         "Index": 1229,
-        "Name": "LeatherArmour(男)",
+        "Name": "绝命革衣(男)",
         "Type": 2,
         "Grade": 0,
         "RequiredType": 0,
@@ -49244,7 +49244,7 @@
     },
     {
         "Index": 1230,
-        "Name": "LeatherArmour(女)",
+        "Name": "绝命革衣(女)",
         "Type": 2,
         "Grade": 0,
         "RequiredType": 0,
@@ -53107,7 +53107,7 @@
     },
     {
         "Index": 1328,
-        "Name": "AncientScyther",
+        "Name": "远古镰刀",
         "Type": 34,
         "Grade": 0,
         "RequiredType": 0,
