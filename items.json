@@ -55025,7 +55025,7 @@
     },
     {
         "Index": 1379,
-        "Name": "IceDragonSkyKnife",
+        "Name": "冰龙天刀",
         "Type": 1,
         "Grade": 4,
         "RequiredType": 0,
@@ -55066,7 +55066,7 @@
     },
     {
         "Index": 1380,
-        "Name": "IceDragonSkySword",
+        "Name": "冰龙天剑",
         "Type": 1,
         "Grade": 4,
         "RequiredType": 0,
@@ -55110,7 +55110,7 @@
     },
     {
         "Index": 1381,
-        "Name": "IceDragonSkyRod",
+        "Name": "冰龙魔天",
         "Type": 1,
         "Grade": 4,
         "RequiredType": 0,
@@ -55153,7 +55153,7 @@
     },
     {
         "Index": 1382,
-        "Name": "IceDragonSkyBayonet",
+        "Name": "冰龙天斩",
         "Type": 1,
         "Grade": 4,
         "RequiredType": 0,
@@ -55164,7 +55164,7 @@
         "Weight": 105,
         "Light": 0,
         "RequiredAmount": 0,
-        "Image": 3888,
+        "Image": 3883,
         "Durability": 55000,
         "Price": 0,
         "StackSize": 1,
